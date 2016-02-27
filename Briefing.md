@@ -3,3 +3,7 @@
 text
 ###Focus###
 text
+###Team###
+text
+###Supporters###
+text
