@@ -1,9 +1,4 @@
-#February 28, 2016
-###Status###
-text
-###Focus###
-text
-#February 28, 2016
+#Beehive Briefing - 2016-02-27
 ###Status###
 text
 ###Focus###
