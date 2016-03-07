@@ -22,7 +22,7 @@ Use this HTML:
 ###CSS###
 Use this CSS
 ```
-empty
+/* add a comment about your CSS */
 ```
 ###JS###
 Use this JS
