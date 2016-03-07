@@ -1,11 +1,11 @@
 #Codepen Template#
-text
+Use this template to experiment with Beehive elements on Codepen
 ###HTML###
 Use this HTML:
 ```
 <!DOCTYPE html>
 <html lang="en">
-<!--Template: codepentemplate https://github.com/BeehiveNGO/Beehive/blob/master/bootstrapfoundation.html-->
+<!--Codepen Template for Beehive development: https://github.com/BeehiveNGO/Documentation-->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -20,6 +20,12 @@ Use this HTML:
 </html>
 ```
 ###CSS###
-text
+Use this CSS
+```
+empty
+```
 ###JS###
-text
+Use this JS
+```
+empty
+```
