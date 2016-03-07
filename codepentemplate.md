@@ -1,9 +1,8 @@
 #Codepen Template#
-Use this template to experiment with Beehive elements on Codepen
+Use this template to experiment with Beehive elements on Codepen: http://codepen.io/Brentophillips/pen/yOeObR
 ###HTML###
 Use this HTML:
 ```
-<!DOCTYPE html>
 <html lang="en">
 <!--Codepen Template for Beehive development: https://github.com/BeehiveNGO/Documentation-->
 <head>
