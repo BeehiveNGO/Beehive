@@ -27,5 +27,5 @@ Use this CSS
 ###JS###
 Use this JS
 ```
-empty
+/* add a comment about your JS */
 ```
