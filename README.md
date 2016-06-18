@@ -1,2 +1,3 @@
 # Beehive
-Beehive's Beta Crowdfunding Platform
+* Beehive Summary
+* Task List
