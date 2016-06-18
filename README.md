@@ -1,5 +1,6 @@
 # Beehive
 * [Beehive](https://github.com/BeehiveNGO/Beehive/wiki/Beehive) Summary
+* Social Media
 * How to [Get Involved](https://github.com/BeehiveNGO/Beehive/wiki/Get-Involved)
 * [Team](https://github.com/BeehiveNGO/Beehive/wiki/Team)
 * Supporters
