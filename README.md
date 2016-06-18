@@ -1,5 +1,5 @@
 # Beehive
 * [Beehive](https://github.com/BeehiveNGO/Beehive/wiki/Beehive) Summary
 * How to Get Involved
-* Milestones
+* [Milestones](https://github.com/BeehiveNGO/Beehive/milestones?with_issues=no)
 * Task List
