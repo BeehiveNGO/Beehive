@@ -5,4 +5,5 @@
 * [Team](https://github.com/BeehiveNGO/Beehive/wiki/Team)
 * Supporters
 * [Milestones](https://github.com/BeehiveNGO/Beehive/milestones?with_issues=no)
-* [Task List](https://github.com/BeehiveNGO/Beehive/blob/master/TaskList.md)
+* [Issues](https://github.com/BeehiveNGO/Beehive/issues)
+* Task List
