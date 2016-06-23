@@ -12,4 +12,4 @@ Beehive is a nonprofit, open source initiative bringing humanitarian organizatio
 * Current [milestones](https://github.com/BeehiveNGO/Beehive/milestones?with_issues=no)
 * Current [issues](https://github.com/BeehiveNGO/Beehive/issues)
 * Task List
-* [Wiki]()
+* [Wiki](https://github.com/BeehiveNGO/Beehive/wiki)
