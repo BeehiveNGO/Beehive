@@ -1,4 +1,4 @@
-# Welcome to Beehive
+#About Beehive and this Repo
 
 * [Beehive](https://github.com/BeehiveNGO/Beehive/wiki/Beehive) Summary
 * [Social Media](https://github.com/BeehiveNGO/Beehive/wiki/Social-Media)
