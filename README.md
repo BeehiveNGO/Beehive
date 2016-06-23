@@ -2,7 +2,7 @@
 
 Beehive is a nonprofit, open source initiative bringing humanitarian organizations, tech volunteers and supporters together to solve and model how to improve humanitarian crowdfunding.
 
-**Visit [Beehive.ngo](http://beehive.ngo) to see our beta, next-generation humanitarian crowdfunding platform taking shape.**
+**Visit [Beehive.ngo](http://beehive.ngo) to see our next-generation humanitarian crowdfunding platform taking shape powered by IATI data.**
 
 * [Beehive](https://github.com/BeehiveNGO/Beehive/wiki/Beehive) Summary
 * [Social Media](https://github.com/BeehiveNGO/Beehive/wiki/Social-Media)
