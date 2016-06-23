@@ -5,7 +5,7 @@ Beehive is a nonprofit, open source initiative bringing humanitarian organizatio
 ##More Information
 
 * About [Beehive](https://github.com/BeehiveNGO/Beehive/wiki/Beehive)
-* [Social Media](https://github.com/BeehiveNGO/Beehive/wiki/Social-Media)
+* Beehive on [social media](https://github.com/BeehiveNGO/Beehive/wiki/Social-Media)
 * How to [get involved](https://github.com/BeehiveNGO/Beehive/wiki/Get-Involved)
 * [Team](https://github.com/BeehiveNGO/Beehive/wiki/Team)
 * Supporters
