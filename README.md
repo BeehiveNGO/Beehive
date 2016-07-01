@@ -9,10 +9,8 @@ Learn more about Beehive: basic 3 Slide deck, detailed 10 slide deck
 ##Documentation and Information
 
 * About [Beehive](https://github.com/BeehiveNGO/Beehive/wiki/Beehive) (wiki page)
-* Beehive on [social media](https://github.com/BeehiveNGO/Beehive/wiki/Social-Media) (wiki page)
-* How to [get involved](https://github.com/BeehiveNGO/Beehive/wiki/Get-Involved) (wiki page)
-* [Team](https://github.com/BeehiveNGO/Beehive/wiki/Team) (wiki page)
-* Supporters
-* Development [overview](https://github.com/BeehiveNGO/Documentation/blob/master/developmentoverview.md) and timeline
-* Current [milestones](https://github.com/BeehiveNGO/Beehive/milestones?with_issues=no), [issues](https://github.com/BeehiveNGO/Beehive/issues), task list
+* Social media [links](https://github.com/BeehiveNGO/Beehive/wiki/Social-Media) (wiki page)
+* Documentation and how to [get involved](https://github.com/BeehiveNGO/Beehive/wiki/Get-Involved) (wiki page)
+* Teams, open source community members, supporters
+* Development [roadmap](https://github.com/BeehiveNGO/Documentation/blob/master/developmentoverview.md) and timeline
 * [Contact](https://github.com/BeehiveNGO/Beehive/wiki/Contact)
