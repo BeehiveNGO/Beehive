@@ -1,10 +1,10 @@
 #[Beehive](http://beehivengo.github.io/Beehive/) - Open Source Humanitarian Crowdfunding Initiative
 
-Beehive is a nonprofit, open source initiative bringing humanitarian organizations, tech volunteers and supporters together to **solve** and **model** how to vastly improve humanitarian crowdfunding. GitHub [organization page]()
+Beehive is a nonprofit, open source initiative launched by former United Nations staff bringing humanitarian organizations, tech volunteers and supporters together to **solve** and **model** how to vastly improve humanitarian crowdfunding. GitHub [organization page]()
 
-##Pitch Deck
+##Slide Decks
 
-Learn more about Beehive: basic [3 Slide deck](), detailed [10 slide deck]()
+Learn more about Beehive: basic [3 slide deck](), detailed [10 slide deck]()
 
 ##Documentation and Information
 
