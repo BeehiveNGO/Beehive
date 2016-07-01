@@ -4,13 +4,13 @@ Beehive is a nonprofit, open source initiative bringing humanitarian organizatio
 
 ##Pitch Deck
 
-Learn more about Beehive: basic 3 Slide deck, detailed 10 slide deck
+Learn more about Beehive: basic [3 Slide deck](), detailed [10 slide deck]()
 
 ##Documentation and Information
 
 * About [Beehive](https://github.com/BeehiveNGO/Beehive/wiki/Beehive) (wiki page)
 * Social media [links](https://github.com/BeehiveNGO/Beehive/wiki/Social-Media) (wiki page)
-* Documentation and how to [get involved](https://github.com/BeehiveNGO/Beehive/wiki/Get-Involved) (wiki page)
-* Teams, open source community members, supporters
+* Documentation and how to [get involved](https://github.com/BeehiveNGO/Beehive/wiki/Get-Involved) (wiki pages)
+* [Teams](), Beehive open source community [members](), [supporters]()
 * Development [roadmap](https://github.com/BeehiveNGO/Documentation/blob/master/developmentoverview.md) and timeline
 * [Contact](https://github.com/BeehiveNGO/Beehive/wiki/Contact)
