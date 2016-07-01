@@ -13,4 +13,5 @@ Learn more about Beehive: basic [3 slide deck](), detailed [10 slide deck]()
 * Documentation and how to [get involved](https://github.com/BeehiveNGO/Beehive/wiki/Get-Involved) (wiki pages)
 * [Teams](), Beehive open source community [members](), [supporters]()
 * Development [roadmap](https://github.com/BeehiveNGO/Documentation/blob/master/developmentoverview.md) and timeline
+* Mission and objectives
 * [Contact](https://github.com/BeehiveNGO/Beehive/wiki/Contact)
