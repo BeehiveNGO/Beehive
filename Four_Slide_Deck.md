@@ -15,6 +15,6 @@ Beehive is building the backend architecture needed to power next generation hum
 ![text](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide3c.png)
 ---
 ### Beehive.ngo
-Next Beehive is solving and modeling how IATI how IATI powered humanitarian crowdfunding applications can work and use data sourced from the humanitarian community to inform giving.
+Next Beehive is solving and modeling how IATI powered humanitarian crowdfunding applications can work and use data sourced from the humanitarian community to inform giving.
 ![text](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide6c.png)
 
