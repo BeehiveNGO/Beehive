@@ -2,6 +2,7 @@
 
 ![text](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide1c.png)
 **IATI**: is a text
+
 ---
 
 
