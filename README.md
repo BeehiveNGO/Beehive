@@ -4,7 +4,7 @@ Beehive is a nonprofit, open source initiative launched by former United Nations
 
 ##Slide Decks
 
-Learn more about Beehive: basic [3 slide deck](), detailed [10 slide deck]()
+Learn more about Beehive: basic [4 slide deck](https://github.com/BeehiveNGO/Beehive/blob/master/Four_Slide_Deck.md), detailed 10 slide deck
 
 ##Documentation and Information
 
