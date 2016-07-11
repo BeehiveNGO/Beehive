@@ -11,10 +11,10 @@ Future crowdfunding platforms serving the humanitarian community will mainstream
 ![text](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide2c.png)
 ---
 ### Backend Architecture
-Beehive is building the backend architecture next-generations data-driven crowdfunding platforms need to power IATI applications.
+Beehive is building the backend architecture next-generations data-driven crowdfunding platforms need to power IATI applications operating at scale.
 ![text](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide3c.png)
 ---
 ### Beehive.ngo
-Next Beehive is modeling how powereing crowdfunding applications using IATI can work.
+Next Beehive is solving and modeling how IATI how powereing crowdfunding applications using can work and serve the humanitarian community.
 ![text](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide6c.png)
 
