@@ -1,4 +1,4 @@
-# About Beehive - Five Slides
+# About Beehive - Four Slides Deck
 ### IATI Open Data Sharing
 IATI is an open data sharing standard and framework for aid activity reporting used by over 450 humanitarian and development organizations, created by the International Aid Transparency Initiative.
 
