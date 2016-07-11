@@ -15,5 +15,5 @@ Beehive is building the backend architecture next-generations data-driven crowdf
 ---
 ### Beehive.ngo
 Next Beehive is modeling how powereing crowdfunding applications using IATI can work.
-![text](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide6.png)
+![text](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide6c.png)
 
