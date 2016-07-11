@@ -1,6 +1,6 @@
 # Pitch Deck - Four Slides
 ### IATI
-**IATI**: is a text
+IATI is a text
 
 ![text](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide1c.png)
 
