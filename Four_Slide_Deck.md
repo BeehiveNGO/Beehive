@@ -2,17 +2,17 @@
 
 ![text](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide1c.png)
 
-text
+**IATI**: is a text
 
 ![text](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide2c.png)
 
-text
+**Problem**: text
 
 ![text](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide3c.png)
 
-text
+**Backend Architecture**: text
 
 ![text](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide4c.png)
 
-text
+**Beehive.ngo**: text
 
