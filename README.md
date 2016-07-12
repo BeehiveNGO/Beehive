@@ -1,6 +1,7 @@
 ![Beehive Logo](https://github.com/BeehiveNGO/Auxiliary/blob/master/beehivelogo.png)
 
-[![License](https://img.shields.io/apm/l/vim-mode.svg)]
+
+![License](https://img.shields.io/apm/l/vim-mode.svg)
 
 #[Beehive](http://beehivengo.github.io/Beehive/) - Open Source Humanitarian Crowdfunding Initiative
 
