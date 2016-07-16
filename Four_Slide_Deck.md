@@ -6,7 +6,7 @@ IATI is an open data sharing standard and framework for aid activity reporting u
 ![text](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide1c.png)
 ---
 ### Data-driven Crowdfunding
-Future crowdfunding platforms serving the humanitarian community will mainstream data sourced from channels like IATI and compete to inform giving in new and innovative ways. But presently IATI’s API isn’t adapted to power humanitarian crowdfunding applications.
+Future crowdfunding platforms will mainstream data sourced from channels like IATI to inform giving and compete to serve the humanitarian community in new and innovative ways. But presently IATI’s API isn’t adapted to power next-generation humanitarian crowdfunding applications.
 
 ![text](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide2c.png)
 ---
