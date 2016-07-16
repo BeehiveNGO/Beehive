@@ -1,3 +1,0 @@
-# Beehive Design Overview
-
-text
