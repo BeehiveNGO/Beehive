@@ -2,8 +2,6 @@
 
 [Beehive](http://beehive.ngo) is a nonprofit, open source initiative launched by former United Nations staff bringing humanitarian organizations, tech volunteers and supporters together to **solve** and **model** how to vastly improve humanitarian crowdfunding.
 
-Get involved - Learn how to [Contribute](https://github.com/BeehiveNGO/Contribute)
-
 ##Slide Decks
 
 Learn more about Beehive: basic [4 slide deck](https://github.com/BeehiveNGO/Beehive/blob/master/Four_Slide_Deck.md), detailed 10 slide deck
@@ -12,9 +10,5 @@ Learn more about Beehive: basic [4 slide deck](https://github.com/BeehiveNGO/Bee
 
 * About [Beehive](https://github.com/BeehiveNGO/Beehive/wiki/Beehive)
 * [Social media](https://github.com/BeehiveNGO/Beehive/wiki/Social-Media) links
-* How to [get involved](https://github.com/BeehiveNGO/Beehive/wiki/Get-Involved)
-* [Teams](https://github.com/BeehiveNGO/Teams), Beehive open source community [members](https://github.com/BeehiveNGO/Teams/blob/master/Community_Members.md), [supporters](https://github.com/BeehiveNGO/Teams/blob/master/Supporters.md)
-* Development [roadmap](https://github.com/BeehiveNGO/Documentation/blob/master/developmentoverview.md) and timeline
-* Mission and objectives
-* Press and [blog]()
-* [Contact](https://github.com/BeehiveNGO/Beehive/wiki/Contact)
+* How to [get involved](https://github.com/BeehiveNGO/Contribute)
+
