@@ -16,5 +16,5 @@ Learn more about Beehive: basic [4 slide deck](https://github.com/BeehiveNGO/Bee
 
 - README
 - [Open source license](https://github.com/BeehiveNGO/DevelopmentLab/blob/master/LICENSE.md)
-- GitHub [Milestones](https://github.com/BeehiveNGO/DevelopmentLab/milestones) and [Issues](https://github.com/BeehiveNGO/DevelopmentLab/issues)
+- GitHub [Milestones](https://github.com/BeehiveNGO/DevelopmentLab/milestones) and [Issues](https://github.com/BeehiveNGO/Beehive/issues)
 
