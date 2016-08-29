@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/apm/l/vim-mode.svg) ![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)
 
-###[Beehive](http://beehivengo.github.io/Beehive/) - Open Source Humanitarian Crowdfunding Initiative
+###[Beehive](http://beehive.ngo/) - Open Source Humanitarian Crowdfunding Initiative
 
 Beehive is a nonprofit, open source initiative launched by former United Nations staff bringing humanitarian organizations, tech volunteers and supporters together to **solve** and **model** how to vastly improve humanitarian crowdfunding.
 
