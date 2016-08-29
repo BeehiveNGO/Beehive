@@ -1,8 +1,6 @@
-![Beehive Logo](https://github.com/BeehiveNGO/Auxiliary/blob/master/beehivelogo.png)
+#Beehive
 
-###[Beehive](http://beehive.ngo/) - Open Source Humanitarian Crowdfunding Initiative
-
-Beehive is a nonprofit, open source initiative launched by former United Nations staff bringing humanitarian organizations, tech volunteers and supporters together to **solve** and **model** how to vastly improve humanitarian crowdfunding.
+[Beehive](http://beehive.ngo) is a nonprofit, open source initiative launched by former United Nations staff bringing humanitarian organizations, tech volunteers and supporters together to **solve** and **model** how to vastly improve humanitarian crowdfunding.
 
 Get involved - Learn how to [Contribute](https://github.com/BeehiveNGO/Contribute)
 
