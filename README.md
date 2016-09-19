@@ -1,16 +1,17 @@
 #Beehive
 
-[Beehive](http://beehive.ngo) is a nonprofit, open source initiative launched by former United Nations staff bringing humanitarian organizations, tech volunteers and supporters together to **solve** and **model** how to vastly improve humanitarian crowdfunding.
+The **Beehive Project** is developing a humanitarian crowdfunding application that humanitarian organizations can collectively own and innovatively improve aided by tech volunteers and supporters.
 
-##Slide Decks
+**Featured Supporters:** [Atlassian](https://www.atlassian.com/)
 
-Learn more about Beehive: basic [slide deck](https://github.com/BeehiveNGO/Beehive/blob/master/files/Basic_Slide_Deck.md), detailed 10 slide deck
+Lab Coordinators: [Brent Phillips](http://github.com/brentophillips)
 
-Interested in joining the project or becoming an advisor, mentor or featured supporter? Learn more about [getting involved](https://github.com/BeehiveNGO/Contribute).
+Interested in joining the lab or becoming an advisor, mentor or featured supporter? Learn more about [getting involved](https://github.com/BeehiveNGO/Contribute).
 
 ### Current Initiatives
 
-- The lab is currently working on prototyping three Beehive projects: [Beta.beehive.ngo](https://github.com/BeehiveNGO/Beta), Beehive.ngo and [Reliefbot.io](https://github.com/BeehiveNGO/ReliefBot), three toolbox modules: [Login-module](), [Raw-data-module]() and [Chart-module]() and two utilities: a parsing utility and an AI logic tool
+- We're using Beehive.ngo as a temporary landing page while beta.beehive.ngo is being developed and tested
+- We're practicing developing a landing page version using React
 
 ### Repository contents include:
 
