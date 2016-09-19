@@ -20,5 +20,5 @@ Interested in joining the project or becoming an advisor, mentor or featured sup
 - GitHub [Milestones](https://github.com/BeehiveNGO/Beehive/milestones) and [Issues](https://github.com/BeehiveNGO/Beehive/issues)
 - Lab [Kanban Board](https://github.com/BeehiveNGO/Beehive/projects/1)
 - Auxiliary [Files](https://github.com/BeehiveNGO/Beehive/tree/master/auxfiles)
-- Landing Page [Files]()
+- Landing Page [Files](https://github.com/BeehiveNGO/Beehive/tree/master/landingpage_files)
 - Beehive [Files](https://github.com/BeehiveNGO/Beehive/tree/master/beehive_files)
