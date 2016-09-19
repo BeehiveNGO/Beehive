@@ -1,3 +1,3 @@
 #Auxiliary Files
 
-- Beehive Design Overview
+- (no files)
