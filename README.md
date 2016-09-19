@@ -19,4 +19,5 @@ Interested in joining the project or becoming an advisor, mentor or featured sup
 - [Open source license](https://github.com/BeehiveNGO/DevelopmentLab/blob/master/LICENSE.md)
 - GitHub [Milestones](https://github.com/BeehiveNGO/Beehive/milestones) and [Issues](https://github.com/BeehiveNGO/Beehive/issues)
 - Lab [Kanban Board](https://github.com/BeehiveNGO/Beehive/projects/1)
+- Auxiliary [Files](https://github.com/BeehiveNGO/Beehive/tree/master/auxfiles)
 - [Files](https://github.com/BeehiveNGO/Beehive/tree/master/files)
