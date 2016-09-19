@@ -4,9 +4,9 @@ The **Beehive Project** is developing a humanitarian crowdfunding application th
 
 **Featured Supporters:** [Atlassian](https://www.atlassian.com/)
 
-Lab Coordinators: [Brent Phillips](http://github.com/brentophillips)
+Project Coordinators: [Brent Phillips](http://github.com/brentophillips)
 
-Interested in joining the lab or becoming an advisor, mentor or featured supporter? Learn more about [getting involved](https://github.com/BeehiveNGO/Contribute).
+Interested in joining the project or becoming an advisor, mentor or featured supporter? Learn more about [getting involved](https://github.com/BeehiveNGO/Contribute).
 
 ### Current Initiatives
 
@@ -20,4 +20,3 @@ Interested in joining the lab or becoming an advisor, mentor or featured support
 - GitHub [Milestones](https://github.com/BeehiveNGO/Beehive/milestones) and [Issues](https://github.com/BeehiveNGO/Beehive/issues)
 - Lab [Kanban Board](https://github.com/BeehiveNGO/Beehive/projects/1)
 - [Files](https://github.com/BeehiveNGO/Beehive/tree/master/files)
-
