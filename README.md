@@ -4,7 +4,7 @@
 
 ##Slide Decks
 
-Learn more about Beehive: basic [4 slide deck](https://github.com/BeehiveNGO/Beehive/blob/master/Four_Slide_Deck.md), detailed 10 slide deck
+Learn more about Beehive: basic [slide deck](https://github.com/BeehiveNGO/Beehive/blob/master/files/Basic_Slide_Deck.md), detailed 10 slide deck
 
 [Join the lab](https://github.com/BeehiveNGO/Contribute) as an advisor, mentor, volunteer or featured supporter
 
