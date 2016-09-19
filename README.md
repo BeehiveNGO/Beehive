@@ -6,7 +6,7 @@
 
 Learn more about Beehive: basic [slide deck](https://github.com/BeehiveNGO/Beehive/blob/master/files/Basic_Slide_Deck.md), detailed 10 slide deck
 
-[Join the lab](https://github.com/BeehiveNGO/Contribute) as an advisor, mentor, volunteer or featured supporter
+Interested in joining the project or becoming an advisor, mentor or featured supporter? Learn more about [getting involved](https://github.com/BeehiveNGO/Contribute).
 
 ### Current Initiatives
 
@@ -17,4 +17,6 @@ Learn more about Beehive: basic [slide deck](https://github.com/BeehiveNGO/Beehi
 - README
 - [Open source license](https://github.com/BeehiveNGO/DevelopmentLab/blob/master/LICENSE.md)
 - GitHub [Milestones](https://github.com/BeehiveNGO/Beehive/milestones) and [Issues](https://github.com/BeehiveNGO/Beehive/issues)
+- Lab [Kanban Board](https://github.com/BeehiveNGO/Beehive/projects/1)
+- [Files]()
 
