@@ -1,3 +1,0 @@
-#Beehive Files
-
-- (no files)
