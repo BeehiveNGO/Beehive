@@ -1,3 +1,0 @@
-#Auxiliary Files
-
-- (no files)
