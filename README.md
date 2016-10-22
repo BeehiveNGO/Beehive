@@ -1,17 +1,13 @@
-#Beehive
+# What's Beehive?
 
-The **Beehive Project** is developing a humanitarian crowdfunding application that humanitarian organizations can collectively own and innovatively improve aided by tech volunteers and supporters.
+[Beehive]() is a nonprofit, open source initiative launched by former United Nations staff bringing humanitarian organizations, tech volunteers and supporters together to vastly improve humanitarian crowdfunding.
 
-**Featured Supporters:** [Atlassian](https://www.atlassian.com/)
+**We're challenging ourselves to**:
 
-Project Coordinators: [Brent Phillips](http://github.com/brentophillips)
+- Build the backend architecture needed to power tomorrow's intelligent, data-driven humanitarian crowdfunding applications
 
-Interested in joining the project or becoming an advisor, mentor or featured supporter? Learn more about [getting involved](https://github.com/BeehiveNGO/Contribute).
+- Solve and model how best-in-class humanitarian crowdfunding applications can function and serve the professional humanitarian community
 
-### Current Initiatives
-
-- We're using Beehive.ngo as a temporary landing page while beta.beehive.ngo is being developed and tested
-- We're practicing developing a landing page version using React
 
 ### Repository contents include:
 
