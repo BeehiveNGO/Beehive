@@ -9,12 +9,14 @@
 - Solve and model how best-in-class humanitarian crowdfunding applications can function and serve the professional humanitarian community
 
 
-### Repository contents include:
+###Folders:
 
-- README
-- [Open source license](https://github.com/BeehiveNGO/DevelopmentLab/blob/master/LICENSE.md)
-- GitHub [Milestones](https://github.com/BeehiveNGO/Beehive/milestones) and [Issues](https://github.com/BeehiveNGO/Beehive/issues)
-- Lab [Kanban Board](https://github.com/BeehiveNGO/Beehive/projects/1)
-- Auxiliary [Files](https://github.com/BeehiveNGO/Beehive/tree/master/auxfiles)
-- Landing Page [Files](https://github.com/BeehiveNGO/Beehive/tree/master/landingpage_files)
-- Beehive [Files](https://github.com/BeehiveNGO/Beehive/tree/master/beehive_files)
+- Beehive.ngo
+- Beta.beehive.ngo
+- App_engine
+- HXS.ngo
+- ReliefBot.io
+
+###Supporters:
+
+Salesforce, Box, DatabaseLabs
