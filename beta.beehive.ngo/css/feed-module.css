@@ -1,0 +1,25 @@
+.project-list {
+  list-style-type: none;
+  margin: 20px;
+}
+
+.project-list li {
+  cursor: pointer;
+  padding: 6px;
+}
+
+.project-list li::before {
+  content: '+ ';
+}
+
+.project-list li.minus::before {
+  content: '− ';
+}
+
+.project-list .project-data {
+  display: none;
+}
+
+.project-list li:hover {
+  background-color: #EFEFEF;
+}
