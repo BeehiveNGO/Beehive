@@ -25,4 +25,4 @@
 
 ###Get Involved
 
-Join us in solving the most difficult challenges standing in the way of improving humanitarian crowdfunding. Here's more infomration about [Beehive](), [contributing]() and how to [contact]() us.
+Join us in solving the most difficult challenges standing in the way of improving humanitarian crowdfunding. Here's more information about [Beehive](), [contributing]() and how to [contact]() us.
