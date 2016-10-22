@@ -1,6 +1,6 @@
 # What's Beehive?
 
-[Beehive]() is a **nonprofit**, **open source** initiative launched by former United Nations staff bringing humanitarian organizations, tech volunteers and supporters together to vastly improve humanitarian crowdfunding.
+[Beehive]() is a **nonprofit**, **open source** initiative launched by former United Nations staff bringing humanitarian organizations, tech volunteers and supporters together to **vastly improve humanitarian crowdfunding**.
 
 **We're challenging ourselves to**:
 
