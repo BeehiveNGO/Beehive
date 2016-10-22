@@ -1,0 +1,79 @@
+
+/* from https://github.com/BeehiveNGO/Development */
+
+.project-list {
+  list-style-type: none;
+  margin: 20px;
+}
+
+.project-list li {
+  cursor: pointer;
+  padding: 6px;
+}
+
+.project-list li::before {
+  content: '+ ';
+}
+
+.project-list li.minus::before {
+  content: '− ';
+}
+
+.project-list .project-data {
+  display: none;
+}
+
+.project-list li:hover {
+  background-color: #EFEFEF;
+}
+
+.buttons {
+  margin: 20px;
+}
+
+/* below from https://github.com/BeehiveNGO/Beta/blob/master/beta_files/css/main.css */
+
+.navbar-brand {
+  padding: 0px;
+  height:70px; /* firefox bug fix */
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px; /* firefox bug fix */
+  width: auto;
+}
+.navbar-btn{
+    width:50px;
+    height:50px;
+    margin:10px;
+}
+
+.navbar-default li {
+    height: 70px;
+}
+
+.github-icon {
+    width: 36px;
+    height: auto;
+    position: relative;
+    left: -6px;
+    top: 0px;
+}
+
+.navbar-default {
+    background-color: white;
+}
+
+.icon-selection {
+    border: solid 1px black;
+    margin: 0 10px;
+}
+
+@media screen and (max-width:768px){
+    .navbar-nav{
+        display:inline;
+    }
+    .nav > li {
+        float: left;
+    }
+}

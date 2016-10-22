@@ -1,0 +1,12 @@
+#github-page img {
+    display: block;
+    height: auto;
+    width: auto;
+    margin: 50px auto 0;
+}
+
+#github-page a {
+    margin: 50px auto;
+    display: block;
+    width: 100px;
+}
