@@ -4,7 +4,7 @@
 
 Learn more: [Pitch Deck](), [Wiki Page]()
 
-**We're challenging ourselves to**:
+##We're challenging ourselves to:
 
 - Build the backend architecture needed to power tomorrow's intelligent, data-driven humanitarian crowdfunding applications
 
@@ -12,7 +12,7 @@ Learn more: [Pitch Deck](), [Wiki Page]()
 
 - Organize spaces and [labs]() for humanitarian actors, technology professionals and staff from innovative startups to collaborate on different aspects of improving humanitarian open data sharing, humanitarian financing and humanitarian crowdfunding.
 
-###Project Folders
+##Project Folders
 
 - [Beehive.ngo](): Release version humanitarian crowdfunding platform
 - [Beta.beehive.ngo](): Beta platform used to showcase and test new features 
@@ -20,11 +20,11 @@ Learn more: [Pitch Deck](), [Wiki Page]()
 - [HXS.ngo](): Landing page and access point for Beehive's Humanitarian Data Exchange Server
 - [ReliefBot.io](): Experimental space we're using to engineer how bots can use data sourced from the humanitarian community to answer queries about how to support humanitarian operations
 
-###Supporters
+##Supporters
 
 [Salesforce](), Box, DatabaseLabs
 
 
-###Get Involved
+##Get Involved
 
 Join us in solving the most difficult challenges standing in the way of improving humanitarian crowdfunding. Here's more information about [Beehive](), [contributing]() and how to [contact]() us.
