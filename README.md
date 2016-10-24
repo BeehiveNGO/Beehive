@@ -6,13 +6,13 @@ Learn more: [Beehive wiki page](https://github.com/BeehiveNGO/Beehive/wiki/Beehi
 
 ##Focus
 
-Beehive is concentrating on building the **backend architecture** developers need to setup and operate next-generation, data-driven humanitarian crowdfunding applications and on **solving** and **modeling** how intelligent humanitarian crowdfunding applications, powered by IATI data, can effectively work and serve the professional humanitarian community.
+Beehive is concentrating on building the **backend architecture** developers need to setup and operate next-generation, intelligent, data-driven humanitarian crowdfunding applications and on **solving** and **modeling** how humanitarian crowdfunding applications, powered by IATI data, can effectively work and serve the professional humanitarian community.
 
-**IATI** is an open data sharing standard and framework over 500 humanitarian and development organization use to share comparable, machine readable information on aid activities, transactions and results, created by the [International Aid Transparency Initiative](http://iatistandard.org).
+**IATI** is an open data sharing standard and framework created by the [International Aid Transparency Initiative](http://iatistandard.org). Over 500 humanitarian and development organization are using IATI to share comparable, machine readable information on aid activities, transactions and results.
 
-##Project Folders
+##Projects and Labs
 
-Currently we're working on five website projects:
+Beehive is organized around project and [labs](). Wesite files for the following projects are housed in this repository:
 
 - [Beehive.ngo](): Release version humanitarian crowdfunding platform
 - [Beta.beehive.ngo](): Beta platform used to showcase and test new features 
@@ -29,4 +29,4 @@ Beehive is supported by a growing network of innovative technology companies:
 
 ##Get Involved
 
-Join us in tackling the most difficult challenges standing in the way of improving humanitarian crowdfunding. More information about [contributing]() and how to [contact]() Beehive staff.
+Join us in tackling the most difficult challenges standing in the way of improving humanitarian crowdfunding. Refer to the following information to [contribute]() code or [support]() Beehive or to [contact]() Beehive staff.
