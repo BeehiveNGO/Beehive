@@ -12,7 +12,7 @@ Beehive is concentrating on building the **backend architecture** developers nee
 
 ##Projects and Labs
 
-Beehive is organized around project and [labs](). Wesite files for the following projects are housed in this repository:
+Beehive is organized around project and [labs](). Website files for the following projects are housed in this repository:
 
 - [Beehive.ngo](): Release version humanitarian crowdfunding platform
 - [Beta.beehive.ngo](): Beta platform used to showcase and test new features 
@@ -29,4 +29,4 @@ Beehive is supported by a growing network of innovative technology companies:
 
 ##Get Involved
 
-Join us in tackling the most difficult challenges standing in the way of improving humanitarian crowdfunding. Refer to the following information to [contribute]() code or [support]() Beehive or to [contact]() Beehive staff.
+Join us in tackling the most difficult challenges standing in the way of improving humanitarian crowdfunding. Refer to the following information to [contribute]() code or [support](https://opencollective.com/beehive) Beehive via Open Collective or to [contact]() Beehive staff.
