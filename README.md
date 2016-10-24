@@ -1,12 +1,14 @@
 #What's Beehive?
 
-[Beehive]() is a **nonprofit**, **open source** initiative launched by former United Nations staff. We're bringing humanitarian organizations, tech volunteers and supporters together to work on **vastly improving humanitarian crowdfunding**.
+[Beehive](http://beehive.ngo) is a **nonprofit**, **open source** initiative launched by former United Nations staff. We're bringing humanitarian organizations, tech volunteers and supporters together to work on **vastly improving humanitarian crowdfunding**.
 
-Learn more: [Wiki Page]()
+Learn more: [Beehive Wiki Page]()
 
 ##Focus
 
-Beehive is concentrating on building the backend architecture develoopers need to setup and operate next-generation, data-driven humanitarian crowdfunding applications and on solving and modeling how they can effectively serve the professional humanitarian community.
+Beehive is concentrating on building the **backend architecture** developers need to setup and operate next-generation, data-driven humanitarian crowdfunding applications and on **solving** and **modeling** how intelligent humanitarian crowdfunding applications, powered by IATI data, can effectively work and serve the professional humanitarian community.
+
+**IATI** is an open data sharing standard and framework over 500 humanitarian and development organization use to share comparable, machine readable information on aid activities, transactions and results, created by the [International Aid Transparency Initiative](http://iatistandard.org).
 
 ##Project Folders
 
