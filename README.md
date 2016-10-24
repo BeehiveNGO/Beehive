@@ -6,7 +6,7 @@ Learn more: [Pitch Deck](), [Wiki Page]()
 
 ##Mission
 
-We're working on:
+We're focusing on doing three things:
 
 - Building the backend architecture needed to power tomorrow's intelligent, data-driven humanitarian crowdfunding applications
 
@@ -16,6 +16,8 @@ We're working on:
 
 ##Project Folders
 
+Currently we're working on five website projects:
+
 - [Beehive.ngo](): Release version humanitarian crowdfunding platform
 - [Beta.beehive.ngo](): Beta platform used to showcase and test new features 
 - [App_engine](): Beta platform powered by Google App Engine used to test our database
@@ -23,6 +25,8 @@ We're working on:
 - [ReliefBot.io](): Experimental space we're using to engineer how bots can use data sourced from the humanitarian community to answer queries about how to support humanitarian operations
 
 ##Supporters
+
+Beehive is supported by a growing network of innovative technology companies:
 
 [Salesforce](), Box, DatabaseLabs
 
