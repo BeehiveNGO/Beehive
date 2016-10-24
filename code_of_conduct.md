@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Beehive expects it's members to respect the following code of conduct:
+Beehive expects its members to respect the following code of conduct:
 
 ## Our Pledge
 
