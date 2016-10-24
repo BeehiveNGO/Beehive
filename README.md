@@ -6,7 +6,7 @@ Learn more: [Beehive wiki page](https://github.com/BeehiveNGO/Beehive/wiki/Beehi
 
 ##Focus
 
-Beehive is concentrating on building the **backend architecture** developers need to setup and operate next-generation, intelligent, data-driven humanitarian crowdfunding applications and on **solving** and **modeling** how humanitarian crowdfunding applications, powered by IATI data, can effectively work and serve the professional humanitarian community.
+Beehive is concentrating on building the **backend architecture** developers need to setup and operate next-generation, data-driven humanitarian crowdfunding applications and on **solving** and **modeling** how humanitarian crowdfunding applications, powered by IATI data, can effectively work and serve the professional humanitarian community.
 
 **IATI** is an open data sharing standard and framework created by the [International Aid Transparency Initiative](http://iatistandard.org). Over 500 humanitarian and development organization are using IATI to share comparable, machine readable information on aid activities, transactions and results.
 
@@ -24,7 +24,7 @@ Beehive is organized around project and [labs](). Website files for the followin
 
 Beehive is supported by a growing network of innovative technology companies:
 
-[Salesforce](), Box, DatabaseLabs
+Salesforce, Atlassian, Twilio, Box, DatabaseLabs
 
 
 ##Get Involved
