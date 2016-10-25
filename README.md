@@ -18,7 +18,7 @@ Learn more: [Beehive wiki page](https://github.com/BeehiveNGO/Beehive/wiki/Beehi
 
 ##Projects and Labs
 
-Beehive is organized around project and [labs](). Website files for the following projects are housed in this repository:
+Beehive is organized around project and [labs](). This repository stores the following project folders:
 
 - [Beehive.ngo](): Release version humanitarian crowdfunding platform
 - [Beta.beehive.ngo](): Beta platform used to showcase and test new features 
