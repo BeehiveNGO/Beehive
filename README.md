@@ -4,19 +4,15 @@
 
 ##Focuses
 
-The United Nations and government development are pushing humanitarian organizations to publish detailed, machine readable information about their aid activities, transactions and results using **IATI**, an open data sharing framework created by the [International Aid Transparency Initiative](http://iatistandard.org) and for third parties to develop IATI applications incentivizing reporting and improving coordination between organizations and donors.
+The United Nations and government development are pushing humanitarian organizations to publish detailed, machine readable information about their aid activities, transactions and results using **IATI**, an open data sharing framework created by the [International Aid Transparency Initiative](http://iatistandard.org) and for third parties to develop IATI applications incentivizing reporting and improving coordination between organizations and donors (like [Cordaid](https://www.cordaid.org/en/projects/), [D-portal](http://d-portal.org/) and [Open.UNDP](http://open.undp.org/#2016)).
 
 Beehive is concentrating on:
 
-- Building the **backend architecture** required to make it possible for developers to easily setup and reliably operate at scale next-generation, intelligent applications powered by IATI data
+- Building the **backend architecture** required to make it possible for developers to easily setup and reliably operate at scale innovative applications powered by IATI data
 
-- Building a whole new class of intelligent, data-driven humanitarian crowdfunding applications optimized to server the professional humanitarian community’s real-time operational fundraising needs
+- Building a whole new generation of intelligent, data-driven humanitarian crowdfunding applications optimized to serve the professional humanitarian community’s real-time operational fundraising needs
 
 Learn more: [Beehive wiki page](https://github.com/BeehiveNGO/Beehive/wiki/Beehive-Initiative), Pitch Deck
-
-## IATI
-
-**IATI** is an open data sharing standard and framework created by the [International Aid Transparency Initiative](http://iatistandard.org). Over 500 humanitarian and development organization are using IATI to share and make comparable, machine readable information on aid activities, transactions and results accessible to third party applications like [Cordaid](https://www.cordaid.org/en/projects/), [D-portal](http://d-portal.org/) and [Open.UNDP](http://open.undp.org/#2016).
 
 ##Projects and Labs
 
