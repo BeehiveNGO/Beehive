@@ -4,7 +4,7 @@
 
 ##Focuses
 
-The United Nations and government development are pushing humanitarian organizations to publish detailed, machine readable information about their aid activities, transactions and results using IATI, an open data sharing framework created by the International Aid Transparency Initiative and for third parties to develop IATI applications incentivizing reporting and improving coordination between organizations and donors.
+The United Nations and government development are pushing humanitarian organizations to publish detailed, machine readable information about their aid activities, transactions and results using **IATI**, an open data sharing framework created by the [International Aid Transparency Initiative](http://iatistandard.org) and for third parties to develop IATI applications incentivizing reporting and improving coordination between organizations and donors.
 
 Beehive is concentrating on:
 
