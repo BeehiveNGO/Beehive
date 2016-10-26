@@ -1,18 +1,22 @@
-#What's Beehive?
+#Beehive
 
-[Beehive](http://beehive.ngo) is a **nonprofit**, **open source** initiative launched by former United Nations staff. We're bringing humanitarian organizations, tech volunteers and supporters together to work on **vastly improving humanitarian crowdfunding**.
+[Beehive](http://beehive.ngo) is a **nonprofit**, **open source** initiative launched by former United Nations staff that's bringing humanitarian organizations, tech volunteers and supporters together to work on **solving** and **modeling** how to vastly improve **humanitarian crowdfunding**.
+
+##Focuses
+
+The United Nations and government development are pushing humanitarian organizations to publish detailed, machine readable information about their aid activities, transactions and results using **IATI**, an open data sharing framework created by the [International Aid Transparency Initiative](http://iatistandard.org) and for third parties to develop IATI applications incentivizing reporting and improving coordination between organizations and donors (like [Cordaid](https://www.cordaid.org/en/projects/), [D-portal](http://d-portal.org/) and [Open.UNDP](http://open.undp.org/#2016)).
+
+Beehive is concentrating on:
+
+- Building the **backend architecture** required to make it possible for developers to easily setup and reliably operate at scale innovative applications powered by IATI data
+
+- Building a whole new generation of intelligent, IATI data-driven humanitarian crowdfunding applications optimized to serve the professional humanitarian community’s real-time operational fundraising needs
 
 Learn more: [Beehive wiki page](https://github.com/BeehiveNGO/Beehive/wiki/Beehive-Initiative), Pitch Deck
 
-##Focus
-
-Beehive is concentrating on building the **backend architecture** developers need to setup and power next-generation, data-driven humanitarian crowdfunding applications and on **solving** and **modeling** how humanitarian crowdfunding applications, powered by IATI data, can effectively work and serve the professional humanitarian community.
-
-**IATI** is an open data sharing standard and framework created by the [International Aid Transparency Initiative](http://iatistandard.org). Over 500 humanitarian and development organization are using IATI to share and make comparable, machine readable information on aid activities, transactions and results accessible to third party applications like [Cordaid](https://www.cordaid.org/en/projects/), [D-portal](http://d-portal.org/) and [Open.UNDP](http://open.undp.org/#2016).
-
 ##Projects and Labs
 
-Beehive is organized around project and [labs](). Website files for the following projects are housed in this repository:
+Beehive is organized around project and [labs](). This repository stores the following project folders:
 
 - [Beehive.ngo](): Release version humanitarian crowdfunding platform
 - [Beta.beehive.ngo](): Beta platform used to showcase and test new features 
@@ -29,4 +33,4 @@ Salesforce, Atlassian, Twilio, Box, DatabaseLabs
 
 ##Get Involved
 
-Join us in tackling the most difficult challenges standing in the way of improving humanitarian crowdfunding. Refer to the following information to [contribute]() code or [support](https://opencollective.com/beehive) Beehive via Open Collective or to [contact]() Beehive staff.
+Join us in tackling the most difficult challenges standing in the way of improving humanitarian crowdfunding. Learn about how to [contribute]() code or [support](https://opencollective.com/beehive) Beehive via Open Collective or to [contact]() Beehive staff.
