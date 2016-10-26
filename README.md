@@ -10,7 +10,7 @@ Beehive is concentrating on:
 
 - Building the **backend architecture** required to make it possible for developers to easily setup and reliably operate at scale innovative applications powered by IATI data
 
-- Building a whole new generation of intelligent, IATI data-driven humanitarian crowdfunding applications optimized to effectively serve the professional humanitarian community’s real-time operational fundraising needs
+- Building a whole new generation of intelligent, IATI data-driven humanitarian crowdfunding applications optimized to serve the professional humanitarian community’s real-time operational fundraising needs
 
 Learn more: [Beehive wiki page](https://github.com/BeehiveNGO/Beehive/wiki/Beehive-Initiative), Pitch Deck
 
