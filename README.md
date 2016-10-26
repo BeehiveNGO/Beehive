@@ -8,7 +8,7 @@ The United Nations and government development are pushing humanitarian organizat
 
 Beehive is concentrating on:
 
-- Building the backend architecture required to make it possible for developers to easily setup and reliably operate at scale next-generation, intelligent applications powered by IATI data
+- Building the **backend architecture** required to make it possible for developers to easily setup and reliably operate at scale next-generation, intelligent applications powered by IATI data
 
 - Building a whole new class of intelligent, data-driven humanitarian crowdfunding applications optimized to server the professional humanitarian community’s real-time operational fundraising needs
 
