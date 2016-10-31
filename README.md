@@ -20,7 +20,7 @@ This repository houses the following **project folders**:
 
 - [Beehive.ngo](): Release version of Beehive's humanitarian crowdfunding platform
 - [Beta.beehive.ngo](): Beta version used to showcase and test new features 
-- [App_engine](): Beta Python version used to test AWS and Google Cloud platforms 
+- [App_engine](https://github.com/BeehiveNGO/Beehive/tree/master/app_engine): Beta Python version used to test AWS and Google Cloud platforms 
 - [HXS.ngo](): Landing page and access point for Beehive's Humanitarian Data Exchange Server and API
 - [ReliefBot.io](): Experimental ReliefBot project
 
