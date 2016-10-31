@@ -14,7 +14,7 @@ Learn more: [Beehive wiki page](https://github.com/BeehiveNGO/Beehive/wiki/Beehi
 
 ##Projects and Labs
 
-Beehive is organized around community project and [labs](). Currently, Beehive members are building a [Humanitarian Data Exchange Server]() and the first open data driven humanitarian crowdfunding platform.
+Beehive is organized around community project and [labs](). Currently, Beehive members are building a [Humanitarian Data Exchange Server](https://github.com/BeehiveNGO/Beehive/wiki/Humanitarian-Exchange-Server) and the first open data driven humanitarian crowdfunding platform.
 
 This repository houses the following project folders:
 
