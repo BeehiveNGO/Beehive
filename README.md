@@ -10,7 +10,7 @@ Beehive is concentrating on:
 
 - **Solving** and **modeling** how tomorrow's humanitarian crowdfunding applications can optimally serve the professional humanitarain community today
 
-Learn more: [Beehive wiki page](https://github.com/BeehiveNGO/Beehive/wiki/Beehive-Initiative), Pitch Deck
+Learn more: [wiki page](https://github.com/BeehiveNGO/Beehive/wiki/Beehive-Initiative), pitch deck
 
 ##Projects and Labs
 
