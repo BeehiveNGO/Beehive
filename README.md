@@ -4,7 +4,7 @@
 
 #Focuses
 
-Beehive is concentrating on:
+Beehive is focusing on:
 
 - Setting up the **backend architecture** and **software frameworks** developers need to build, power and scale next-generation, intelligent, open-data-driven humanitarian crowdfunding applications
 
