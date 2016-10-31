@@ -5,7 +5,7 @@
 #Focuses
 
 Beehive is concentrating on:
-- Setting up the **backend architecture** and **frameworks** developers need to build, power and scale next-generation, intelligent, open data driven humanitarian crowdfunding applications
+- Setting up the **backend architecture** and **software frameworks** developers need to build, power and scale next-generation, intelligent, open data driven humanitarian crowdfunding applications
 
 - **Solving** and **modeling** how tomorrow's humanitarian crowdfunding applications can optimally serve the professional humanitarain community today
 
