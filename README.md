@@ -14,7 +14,7 @@ Learn more: [Beehive wiki page](https://github.com/BeehiveNGO/Beehive/wiki/Beehi
 
 ##Projects and Labs
 
-Beehive is organized around community project and [labs](). Currently, Beehive members are building a [Humanitarian Data Exchange Server](https://github.com/BeehiveNGO/Beehive/wiki/Humanitarian-Exchange-Server) and the first open data driven humanitarian crowdfunding platform.
+Beehive is organized around community project and [labs](https://github.com/BeehiveNGO/Beehive/wiki/Labs). Currently, Beehive members are building a [Humanitarian Data Exchange Server](https://github.com/BeehiveNGO/Beehive/wiki/Humanitarian-Exchange-Server) and the first open data driven humanitarian crowdfunding platform.
 
 This repository houses the following project folders:
 
@@ -33,4 +33,4 @@ Salesforce, Atlassian, Twilio, Box, DatabaseLabs
 
 ##Get Involved
 
-Join us in tackling the most difficult challenges standing in the way of improving humanitarian crowdfunding. Learn about how to [contribute]() code, [support](https://opencollective.com/beehive) Beehive via Open Collective or [contact]() Beehive staff.
+Join us in tackling the most difficult challenges standing in the way of improving humanitarian crowdfunding. Learn about how to [contribute]() code, [support](https://opencollective.com/beehive) Beehive via Open Collective or [contact](https://github.com/BeehiveNGO/Beehive/wiki/Contact) Beehive staff.
