@@ -1,25 +1,17 @@
 #Beehive
 
-[Beehive](http://beehive.ngo) is a **nonprofit**, **open source** initiative launched by former United Nations staff to improve **humanitarian financing** at the crowdunding level.
+[Beehive](http://beehive.ngo) is a nonprofit, open source initiative launched by former United Nations staff bringing humanitarian organizations, tech volunteers and supporters together to vastly improve **humanitarian financing technology** and **applications** at the **crowdfunding level**.
 
-Beehive is bringing humanitarian organizations, tech volunteers and supporters together to **solve** how to power next-generation intelligent, open-data-driven humanitarian crowdfunding applications and to **model** how they can serve the professional humanitarian community.
-
-#line
-
-Beehive is concentrating on bringing humanitarian organizations, tech volunteers and supporters together to:
-
-- Build the backend architecture needed to power next-generations, open data driven humanitarian crowdfunding applications
-- Advance, influence and support the development of new humanitarain crowdfunding applicaions through building and operating our own
-
-##Focuses
-
-The United Nations and government development are pushing humanitarian organizations to publish detailed, machine readable information about their aid activities, transactions and results using **IATI**, an open data sharing framework created by the [International Aid Transparency Initiative](http://iatistandard.org) and for third parties to develop IATI applications incentivizing reporting and improving coordination between organizations and donors (like [Cordaid](https://www.cordaid.org/en/projects/), [D-portal](http://d-portal.org/) and [Open.UNDP](http://open.undp.org/#2016)).
+#Focuses
 
 Beehive is concentrating on:
+- Setting up the **backend architecture** and **web frameworks** developers need to build, power and scale next-generation, intelligent, open data driven humanitarian crowdfunding applications
 
-- Building the **backend architecture** required to make it possible for developers to easily setup and reliably operate at scale innovative applications powered by IATI data
+- **Solving** and **modeling** how tomorrow's humanitarian crowdfunding applications can optimally serve the professional humanitarain community
 
-- Building a whole new generation of intelligent, IATI data-driven humanitarian crowdfunding applications optimized to serve the professional humanitarian community’s real-time operational fundraising needs
+##Background
+
+The United Nations and government development are pushing humanitarian organizations to publish detailed, machine readable information about their aid activities, transactions and results using **IATI**, an open data sharing framework created by the [International Aid Transparency Initiative](http://iatistandard.org) and for third parties to develop IATI applications incentivizing reporting and improving coordination between organizations and donors (like [Cordaid](https://www.cordaid.org/en/projects/), [D-portal](http://d-portal.org/) and [Open.UNDP](http://open.undp.org/#2016)).
 
 Learn more: [Beehive wiki page](https://github.com/BeehiveNGO/Beehive/wiki/Beehive-Initiative), Pitch Deck
 
