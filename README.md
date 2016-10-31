@@ -33,4 +33,4 @@ Salesforce, Atlassian, Twilio, Box, DatabaseLabs
 
 ##Get Involved
 
-Join us in tackling the most difficult challenges standing in the way of improving humanitarian crowdfunding. Learn about how to [contribute]() code, [support](https://opencollective.com/beehive) Beehive via Open Collective or [contact](https://github.com/BeehiveNGO/Beehive/wiki/Contact) Beehive staff.
+Join us in tackling the most difficult challenges standing in the way of improving humanitarian crowdfunding. Learn about how to [contribute](https://github.com/BeehiveNGO/Beehive/wiki/Contribute) code, [support](https://opencollective.com/beehive) Beehive via Open Collective or [contact](https://github.com/BeehiveNGO/Beehive/wiki/Contact) Beehive staff.
