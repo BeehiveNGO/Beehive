@@ -18,11 +18,11 @@ Beehive is organized around community project and [labs](https://github.com/Beeh
 
 This repository houses the following **project folders**:
 
-- [Beehive.ngo](): Release version of Beehive's humanitarian crowdfunding platform
-- [Beta.beehive.ngo](): Beta version used to showcase and test new features 
+- [Beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beehive.ngo): Release version of Beehive's humanitarian crowdfunding platform
+- [Beta.beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beta.beehive.ngo): Beta version used to showcase and test new features 
 - [App_engine](https://github.com/BeehiveNGO/Beehive/tree/master/app_engine): Beta Python version used to test AWS and Google Cloud platforms 
-- [HXS.ngo](): Landing page and access point for Beehive's Humanitarian Data Exchange Server and API
-- [ReliefBot.io](): Experimental ReliefBot project
+- [HXS.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/hxs.ngo): Landing page and access point for Beehive's Humanitarian Data Exchange Server and API
+- [ReliefBot.io](https://github.com/BeehiveNGO/Beehive/tree/master/reliefbot.io): Experimental ReliefBot project
 
 ##Supporters
 
