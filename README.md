@@ -1,5 +1,5 @@
 #Beehive
-[![Slack]](http:/google.com)
+[![Join the Atom Community on Slack](http://atom-slack.herokuapp.com/badge.svg)](http://atom-slack.herokuapp.com/)
 
 **Beehive** is a nonprofit, open source initiative launched by former United Nations staff bringing humanitarian organizations, tech volunteers and supporters together to vastly improve **humanitarian financing technology** and **applications** at the **crowdfunding level**.
 
