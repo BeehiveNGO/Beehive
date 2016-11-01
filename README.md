@@ -15,7 +15,7 @@ Learn more: [wiki page](https://github.com/BeehiveNGO/Beehive/wiki/Beehive-Initi
 
 ##Projects and Labs
 
-Beehive is organized around community project and [labs](https://github.com/BeehiveNGO/Beehive/wiki/Labs). Currently, Beehive members are principally working on building a [Humanitarian Data Exchange Server](https://github.com/BeehiveNGO/Beehive/wiki/Humanitarian-Exchange-Server) and using it to power the world's first open-data-driven humanitarian crowdfunding platform and an experimental [ReliefBot](https://github.com/BeehiveNGO/Beehive/wiki/ReliefBot.io).
+Beehive is organized around community projects and [labs](https://github.com/BeehiveNGO/Beehive/wiki/Labs). Currently, Beehive members are principally working on building a [Humanitarian Data Exchange Server](https://github.com/BeehiveNGO/Beehive/wiki/Humanitarian-Exchange-Server) and using it to power the world's first open-data-driven humanitarian crowdfunding platform and an experimental [ReliefBot](https://github.com/BeehiveNGO/Beehive/wiki/ReliefBot.io).
 
 This repository houses the following **project folders**:
 
