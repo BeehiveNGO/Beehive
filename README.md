@@ -1,5 +1,5 @@
 #Beehive
-<script async defer src="https://slack.beehivengo.com/slackin.js"></script>
+[![Slack]](http:/google.com)
 
 **Beehive** is a nonprofit, open source initiative launched by former United Nations staff bringing humanitarian organizations, tech volunteers and supporters together to vastly improve **humanitarian financing technology** and **applications** at the **crowdfunding level**.
 
