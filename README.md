@@ -3,7 +3,7 @@
 
 **Beehive** is a **nonprofit**, **open source initiative** launched by former United Nations staff, inspired by [Atom](http://atom.io), [Flask](http://flask.pocoo.org/) and [openCypher](http://www.opencypher.org/).
 
-Beehive is bringing humanitarian organizations, tech volunteers and supporters together to build the world’s first open-sourced, open-data driven **humanitarian crowdfunding platform** and the **backend architecture**, **software frameworks** and **database query  commands** developers need to setup, power and scale next-generation, intelligent, open-data-driven humanitarian crowdfunding applications.
+Beehive is bringing humanitarian organizations, tech volunteers and supporters together to build the world’s first open-sourced, open-data-driven **humanitarian crowdfunding platform** and the **backend architecture**, **software frameworks** and **database query  commands** developers need to setup, power and scale next-generation, intelligent, open-data-driven humanitarian crowdfunding applications.
 
 Learn more: [wiki page](https://github.com/BeehiveNGO/Beehive/wiki/Beehive-Initiative), pitch deck
 
