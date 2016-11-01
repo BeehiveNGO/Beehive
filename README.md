@@ -1,5 +1,5 @@
 #Beehive
-[![Slack](https://img.shields.io/badge/style-social-green.svg?style=social)](https://beehivengo.slack.com)
+[![Slack](https://img.shields.io/badge/Slack-Join BeehiveNGO-green.svg?style=social)](https://beehivengo.slack.com)
 
 **Beehive** is a nonprofit, open source initiative launched by former United Nations staff bringing humanitarian organizations, tech volunteers and supporters together to vastly improve **humanitarian financing technology** and **applications** at the **crowdfunding level**.
 
