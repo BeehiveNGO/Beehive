@@ -1,15 +1,9 @@
 #Beehive
 [![About](https://img.shields.io/badge/About-Pitch Deck-yellowgreen.svg)](https://beehive.ngo) [![Milestones](https://img.shields.io/badge/Milestones-GitHub-yellow.svg)](https://beehive.ngo) [![Beehive](https://img.shields.io/badge/Contribute-Join Beehive-blue.svg)](https://beehive.ngo) [![Slack](https://img.shields.io/badge/Slack-Join BeehiveNGO-green.svg)](https://beehive.ngo)
 
-**Beehive** is a nonprofit, open source initiative launched by former United Nations staff bringing humanitarian organizations, tech volunteers and supporters together to vastly improve **humanitarian financing technology** and **applications** at the **crowdfunding level**.
+**Beehive** is a nonprofit, open source initiative launched by former United Nations staff, inspired by Atom, Flask and Cypher.
 
-#Focuses
-
-Beehive is focusing on:
-
-- Setting up the **backend architecture** and **software frameworks** developers need to build, power and scale next-generation, intelligent, open-data-driven humanitarian crowdfunding applications
-
-- **Solving** and **modeling** how tomorrow's humanitarian crowdfunding applications can optimally serve the professional humanitarain community today
+Beehive is bringing humanitarian organizations, tech volunteers and supporters together to build the world’s first open-sourced, open-data driven **humanitarian crowdfunding platform** and the **backend architecture**, **software frameworks** and **database query  commands** developers need to setup, power and scale next-generation, intelligent, open-data-driven humanitarian crowdfunding applications.
 
 Learn more: [wiki page](https://github.com/BeehiveNGO/Beehive/wiki/Beehive-Initiative), pitch deck
 
