@@ -1,7 +1,7 @@
 #Beehive
 [![Milestones](https://img.shields.io/badge/Milestones-GitHub-yellow.svg)](https://beehive.ngo) [![Beehive](https://img.shields.io/badge/Contribute-Join Beehive-blue.svg)](https://beehive.ngo) [![Slack](https://img.shields.io/badge/Slack-Join BeehiveNGO-green.svg)](https://beehive.ngo)
 
-**Beehive** is a **nonprofit**, **open source initiative** launched by former United Nations staff, modeled on [Atom](http://atom.io), [Flask](http://flask.pocoo.org/), [PubNub](https://www.pubnub.com) and [openCypher](http://www.opencypher.org/).
+**Beehive** is a **nonprofit**, **open source initiative** launched by former United Nations staff, inspired by [Atom](http://atom.io), [Flask](http://flask.pocoo.org/), [PubNub](https://www.pubnub.com) and [openCypher](http://www.opencypher.org/).
 
 Beehive is bringing humanitarian organizations, tech volunteers and supporters together to build the world’s first open-sourced, open-data-driven **humanitarian crowdfunding platform** and the **backend architecture**, **software frameworks** and **database query  commands** developers need to setup, power and scale next-generation, intelligent, open-data-driven humanitarian crowdfunding applications serving the professional humanitarian community.
 
