@@ -24,7 +24,7 @@ This repository houses the following **project folders**:
 
 ##Supporters
 
-Beehive is supported by a growing network of innovative **startups** and established **technology companies**:
+Beehive is supported by a growing network of innovative **startups** and leading **technology companies**:
 
 [Salesforce](http://Salesforce.com), Atlassian, Twilio, Box, DatabaseLabs
 
