@@ -18,9 +18,9 @@ This repository houses the following **project folders**:
 - [App_engine](https://github.com/BeehiveNGO/Beehive/tree/master/app_engine): Beta Python version used to test Google Cloud tools
 - [AWS](https://github.com/BeehiveNGO/Beehive/tree/master/aws): Beta Python version used to test AWS tools 
 - [HXS.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/hxs.ngo): Landing page and access point for Beehive's Humanitarian Data Exchange Server and API
-- [HXQL](https://github.com/BeehiveNGO/Beehive/tree/master/hxql): Humanitarian Exchange Query Language guidelines
+- [HXQL](https://github.com/BeehiveNGO/Beehive/tree/master/hxql): Humanitarian Exchange Query Language ruleset
 - [Extractor](https://github.com/BeehiveNGO/Beehive/tree/master/extractor): Data extraction tool
-- [ReliefBot.io](https://github.com/BeehiveNGO/Beehive/tree/master/reliefbot.io): Experimental ReliefBot project
+- [ReliefBot.io](https://github.com/BeehiveNGO/Beehive/tree/master/reliefbot.io): Experimental ReliefBot application
 
 ##Supporters
 
@@ -32,7 +32,7 @@ Beehive is supported by a growing network of innovative **startups** and leading
 
 Beehive team members are aided by a growing number of **advisors** and **mentors**:
 
-(Under Construction)
+(under construction)
 
 ##Get Involved
 
