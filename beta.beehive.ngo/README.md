@@ -1,1 +1,3 @@
-# Beta.beehive.ngo - Folder
+# Beta.beehive.ngo Folder
+
+Website files for Beta.beehive.ngo
