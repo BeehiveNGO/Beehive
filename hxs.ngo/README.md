@@ -1,3 +1,3 @@
-# Humanitarain Data Exchange Server Folder
+# Humanitarain Exchange Server Folder
 
 Website files for HXS.ngo
