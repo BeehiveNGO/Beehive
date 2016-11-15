@@ -1,10 +1,3 @@
-#Flask to Database Test
+#Google App Engine folder
 
-Code modeling how to connect to a database and display IATI aid activity information using Flask. **Run**: python beehive.py
-
-**Requires**: 
-
-- python
-- pip install Flask
-- pip install flask-mysql
-- pip install flask-mysqldb
+This folder is for website files Beehive is testing hosting via Google's App Engine.
