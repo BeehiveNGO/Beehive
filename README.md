@@ -3,7 +3,7 @@
 
 **Beehive** is a **nonprofit**, **open source initiative** launched by former United Nations staff that's bringing humanitarian organizations, tech volunteers and supporters together to vastly improve **humanitarian financing technology** at the **crowdfunding level**.
 
-Beehive is concentrating on building the first open-source, open-data-driven **humanitarian crowdfunding platform** and the **backend architecture** and **software frameworks** developers need to setup, power and scale tomorrow's intelligent, open-data-driven humanitarian crowdfunding applications, capable of providing real-time aid **today** to organizations struggling to launch and sustain operations responding to the world’s worst humanitarian crises.
+Beehive is concentrating on building the first open-source, open-data-driven **humanitarian crowdfunding platform** and the **backend architecture** and **software frameworks** developers need to setup, power and scale tomorrow's intelligent, open-data-driven humanitarian crowdfunding applications, capable of providing real-time aid **today** to organizations struggling to launch and sustain operations responding to humanitarian crises.
 
 Learn more: [About Beehive](https://github.com/BeehiveNGO/Beehive/wiki/About-Beehive) wiki page, pitch deck
 
