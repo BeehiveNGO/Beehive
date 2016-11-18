@@ -11,7 +11,7 @@ Learn more: [About Beehive](https://github.com/BeehiveNGO/Beehive/wiki/About-Bee
 
 Beehive is organized around community [projects](https://github.com/BeehiveNGO/Beehive/wiki/Project-List) and [labs](https://github.com/BeehiveNGO/Beehive/wiki/Labs). **Projects** build test applications and tools while **labs** focus on exploring ways emerging technologies can be innovatively adapted to improve different aspects of humanitarian crowdfunding.
 
-This repository houses the following **project folders**:
+The Beehive repository houses the following **project folders**:
 
 - [Beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beehive.ngo): Release version of Beehive's humanitarian crowdfunding platform
 - [Beta.beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beta.beehive.ngo): Beta version used to showcase and test new features 
