@@ -1,6 +1,6 @@
 # Beta.beehive.ngo
 
-Website files for [Beehive.ngo]()
+Website files for [Beta.beehive.ngo]()
 
 ###Auxiliary Resources
 
