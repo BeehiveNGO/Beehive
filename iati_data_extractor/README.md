@@ -8,7 +8,7 @@ This folder contains build files for Beehive's automated [IATI Data Extractor]()
 
 ## HXS
 
-IATI's API isn't setup to power sophisticated, open-data-driven applications operating at scale. Beehive is building a Humanitarain Exchange Server (HXS) developers can use to power IATI applications. The server will essentially scrape and reserve IATI's whole dataset, providing developers with access to an up-to-date dataset built specifically for applications.
+IATI's API isn't setup to power sophisticated, open-data-driven applications operating at scale. Beehive is building a Humanitarain Exchange Server ([HXS]()) developers can use to power IATI applications. The server will essentially scrape and reserve IATI's whole dataset, providing developers with access to an up-to-date dataset built specifically for applications.
 
 
 ## IATI Data Extractor Specifications
