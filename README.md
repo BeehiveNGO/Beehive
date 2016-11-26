@@ -27,7 +27,7 @@ The following **project folders** are stored in this GitHub repository:
 
 The Beehive initiative is supported by a growing network of innovative **startups** and leading **technology companies**:
 
-[Salesforce](http://Salesforce.com), Atlassian, Twilio, Box, DatabaseLabs
+MetaDesign, Salesforce, Twilio, Atlassian, Slack, Zendesk, Box, Database Labs, Wagon, Postico, API.ai, Sketch, Tableau, Datameer, Neo4j, PubNub, ESRI, Skillgravity, Mightbell, Aha, Discourse, Launcht, Veridu, Breezy, VolunteerMatch, OnGood, Humanitarian ID, Empowerment Works
 
 ##Advisers and Mentors
 
