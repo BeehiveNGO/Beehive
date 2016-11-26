@@ -18,7 +18,7 @@ The following **project folders** are stored in the [Beehive repository](http://
 - [Beta.beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beta.beehive.ngo): Beta version (used to showcase and test new features)
 - [App_engine](https://github.com/BeehiveNGO/Beehive/tree/master/app_engine): Google Cloud beta version
 - [AWS](https://github.com/BeehiveNGO/Beehive/tree/master/aws): AWS Elastic Beanstalk beta version
-- [HXS.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/hxs.ngo): Humanitarian Data Exchange Server and API
+- [HXS.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/hxs.ngo): Humanitarian Data Exchange Server landing page
 - [HXQL](https://github.com/BeehiveNGO/Beehive/tree/master/hxql): Humanitarian Exchange Query Language ruleset
 - [Extractor](https://github.com/BeehiveNGO/Beehive/tree/master/extractor): Automated data extraction tool
 - [ReliefBot.io](https://github.com/BeehiveNGO/Beehive/tree/master/reliefbot.io): Experimental ReliefBot application
