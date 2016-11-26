@@ -12,7 +12,7 @@ Beehive team members are concentrating on building the world’s first open sour
 Beehive is organized around community **projects** and **labs**. [Labs](https://github.com/BeehiveNGO/Beehive/wiki/Labs) bring team members together sharing similar technology interests to carry out research and testing while [projects](https://github.com/BeehiveNGO/Beehive/wiki/Project-List) bring team members together to build deployable tools and applications
 
 
-The following **project folders** are stored in the [Beehive repository](http://github.com/beehivengo/beehive) on GitHub:
+The following **project folders** are stored in this GitHub repository:
 
 - [Beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beehive.ngo): Beehive's humanitarian crowdfunding platform
 - [Beta.beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beta.beehive.ngo): Beta version (used to showcase and test new features)
