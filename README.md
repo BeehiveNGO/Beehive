@@ -1,7 +1,7 @@
 #Beehive
 [![Beehive](https://img.shields.io/badge/Website-Beehive.ngo-blue.svg)](https://beehive.ngo) [![Slack](https://img.shields.io/badge/Get Involved-Join Beehive-green.svg)](https://github.com/BeehiveNGO/Beehive/wiki/Contribute) [![Open Colelctive](https://img.shields.io/badge/Support us-Visit OpenCollective-yellow.svg)](https://opencollective.com/beehive)
 
-**Beehive** is a **nonprofit**, **open source initiative** launched by former United Nations staff that's bringing humanitarian organizations, tech volunteers and supporters together to vastly improve **humanitarian financing technology** at the **crowdfunding level**.
+**Beehive** is a **nonprofit**, **open source initiative** launched by former United Nations staff that's bringing humanitarian organizations, tech volunteers and supporters together to **solve** and **model** how to vastly improve **humanitarian financing technology** at the **crowdfunding level**.
 
 Beehive team members are building the world’s first open-data-driven **humanitarian crowdfunding platform** and the **backend architecture** and **software frameworks** that developers need to setup, power and scale a whole new generation of intelligent, open-data-driven humanitarian crowdfunding applications.
 
