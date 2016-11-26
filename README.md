@@ -15,7 +15,7 @@ Beehive is organized around community **projects** and **labs**. [Labs](https://
 The following **project folders** are stored in the [Beehive repository](http://github.com/beehivengo/beehive) on GitHub:
 
 - [Beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beehive.ngo): Beehive's humanitarian crowdfunding platform
-- [Beta.beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beta.beehive.ngo): Beta version used to showcase and test new features 
+- [Beta.beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beta.beehive.ngo): Beta version (used to showcase and test new features)
 - [App_engine](https://github.com/BeehiveNGO/Beehive/tree/master/app_engine): Beta Python version used to test Google Cloud tools
 - [AWS](https://github.com/BeehiveNGO/Beehive/tree/master/aws): Beta Python version used to test AWS tools 
 - [HXS.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/hxs.ngo): Landing page and access point for Beehive's Humanitarian Data Exchange Server and API
