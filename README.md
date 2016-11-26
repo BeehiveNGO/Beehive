@@ -14,14 +14,14 @@ Beehive is organized around community **projects** and **labs**. [Labs](https://
 
 The following **project folders** are stored in this GitHub repository:
 
-- [Beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beehive.ngo): Beehive's humanitarian crowdfunding platform
-- [Beta.beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beta.beehive.ngo): Beta version (used to showcase and test new features)
-- [App_engine](https://github.com/BeehiveNGO/Beehive/tree/master/app_engine): Google Cloud beta version
-- [AWS](https://github.com/BeehiveNGO/Beehive/tree/master/aws): AWS Elastic Beanstalk beta version
-- [HXS.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/hxs.ngo): Humanitarian Exchange Server landing page
-- [HXQL](https://github.com/BeehiveNGO/Beehive/tree/master/hxql): Humanitarian Exchange Query Language ruleset
-- [IATI_Data_Extractor](https://github.com/BeehiveNGO/Beehive/tree/master/extractor): Automated IATI data extraction tool
-- [ReliefBot.io](https://github.com/BeehiveNGO/Beehive/tree/master/reliefbot.io): Experimental ReliefBot application
+- [Beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beehive.ngo): Beehive's humanitarian crowdfunding platform folder
+- [Beta.beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beta.beehive.ngo): Beta version folder
+- [App_engine](https://github.com/BeehiveNGO/Beehive/tree/master/app_engine): Google Cloud App Engine folder
+- [AWS](https://github.com/BeehiveNGO/Beehive/tree/master/aws): AWS Elastic Beanstalk folder
+- [HXS.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/hxs.ngo): Humanitarian Exchange Server landing page folder
+- [HXQL](https://github.com/BeehiveNGO/Beehive/tree/master/hxql): Humanitarian Exchange Query Language ruleset folder
+- [IATI_Data_Extractor](https://github.com/BeehiveNGO/Beehive/tree/master/extractor): Automated IATI data extraction tool folder
+- [ReliefBot.io](https://github.com/BeehiveNGO/Beehive/tree/master/reliefbot.io): Experimental ReliefBot application folder
 
 ##Supporters
 
