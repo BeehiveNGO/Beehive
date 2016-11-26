@@ -37,4 +37,4 @@ Beehive team members are aided by a growing number of **advisors** and **mentors
 
 ##Get Involved
 
-Join us in tackling the most difficult challenges standing in the way of improving humanitarian crowdfunding. Learn how to [contribute](https://github.com/BeehiveNGO/Beehive/wiki/Contribute) code, provide [support](https://github.com/BeehiveNGO/Beehive/wiki/Support) or other aid or [contact](https://github.com/BeehiveNGO/Beehive/wiki/Contact) Beehive staff.
+Join us in tackling the most difficult challenges standing in the way of improving humanitarian crowdfunding. Learn how to [contribute](https://github.com/BeehiveNGO/Beehive/wiki/Contribute) code, [support](https://github.com/BeehiveNGO/Beehive/wiki/Support) Beehive in other ways or [contact](https://github.com/BeehiveNGO/Beehive/wiki/Contact) Beehive staff.
