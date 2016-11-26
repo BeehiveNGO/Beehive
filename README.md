@@ -25,7 +25,7 @@ The following **project folders** are stored in this GitHub repository:
 
 ##Supporters
 
-Beehive is supported by a growing network of innovative **startups** and leading **technology companies**:
+The Beehive initiative is supported by a growing network of innovative **startups** and leading **technology companies**:
 
 [Salesforce](http://Salesforce.com), Atlassian, Twilio, Box, DatabaseLabs
 
