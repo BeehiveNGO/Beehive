@@ -20,7 +20,7 @@ The following **project folders** are stored in this GitHub repository:
 - [AWS](https://github.com/BeehiveNGO/Beehive/tree/master/aws): AWS Elastic Beanstalk beta version
 - [HXS.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/hxs.ngo): Humanitarian Exchange Server landing page
 - [HXQL](https://github.com/BeehiveNGO/Beehive/tree/master/hxql): Humanitarian Exchange Query Language ruleset
-- [Extractor](https://github.com/BeehiveNGO/Beehive/tree/master/extractor): Automated IATI data extraction tool
+- [IATI_Data_Extractor](https://github.com/BeehiveNGO/Beehive/tree/master/extractor): Automated IATI data extraction tool
 - [ReliefBot.io](https://github.com/BeehiveNGO/Beehive/tree/master/reliefbot.io): Experimental ReliefBot application
 
 ##Supporters
