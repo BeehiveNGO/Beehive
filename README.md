@@ -9,7 +9,8 @@ Beehive team members are concentrating on building the world’s first open sour
 
 ##Projects and Labs
 
-Beehive is organized around community [projects](https://github.com/BeehiveNGO/Beehive/wiki/Project-List) and [labs](https://github.com/BeehiveNGO/Beehive/wiki/Labs). **Projects** build test applications and tools while **labs** focus on exploring ways emerging technologies can be innovatively adapted to improve different aspects of humanitarian crowdfunding.
+Beehive is organized around community [projects](https://github.com/BeehiveNGO/Beehive/wiki/Project-List) and [labs](https://github.com/BeehiveNGO/Beehive/wiki/Labs). Labs bring individuals together sharing similar technology interests to carry out research and testing while projects build deployable tools and applications
+
 
 The Beehive repository houses the following **project folders**:
 
