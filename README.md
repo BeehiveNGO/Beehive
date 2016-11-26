@@ -5,7 +5,7 @@
 
 Beehive team members are concentrating on building the world’s first open source, open-data-driven **humanitarian crowdfunding platform** and the **backend architecture** and **software frameworks** that developers need to setup, power and scale next generation, intelligent, [IATI]() compliant, open-data-driven humanitarian crowdfunding applications.
 
-[Learn more](https://github.com/BeehiveNGO/Beehive/wiki/About-Beehive), Pitch Deck
+[Learn More](https://github.com/BeehiveNGO/Beehive/wiki/About-Beehive), Pitch Deck
 
 ##Projects and Labs
 
