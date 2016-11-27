@@ -4,7 +4,7 @@ Website files for [Beehive.ngo]()
 
 ###Auxiliary Resources
 
-- Design Overview: [beta_design-overview.md]()
-- Beehive.ngo [Wiki Page]()
-- [Milestones](), [Issues](), [Project Kanban Board]()
-- Project Coordinator: [Bob]()
+- Design Overview: [beehive_design-overview.md](https://github.com/BeehiveNGO/Auxiliary/blob/master/design_specifications/beehive_design_overview.md)
+- Beehive.ngo [Wiki Page](https://github.com/BeehiveNGO/Beehive/wiki/Beehive.ngo)
+- [Milestones](https://github.com/BeehiveNGO/Beehive/milestones), [Issues](https://github.com/BeehiveNGO/Beehive/issues), [Project Kanban Board](https://github.com/BeehiveNGO/Beehive/projects/1)
+- Project Coordinator: [Brent Phillips](https://github.com/Brentophillips)
