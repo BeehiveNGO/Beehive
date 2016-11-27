@@ -4,7 +4,7 @@ This folder contains build files for Beehive's automated IATI Data Extractor too
 
 ###Auxiliary Resources
 
-- Design Overview: [extractor_design-overview.md](https://github.com/BeehiveNGO/Auxiliary/blob/master/design_specifications/extractor_design_overview.md)
+- Design Overview: [extractor_design_overview.md](https://github.com/BeehiveNGO/Auxiliary/blob/master/design_specifications/extractor_design_overview.md)
 - IATI Data Extractor [Wiki Page](https://github.com/BeehiveNGO/Beehive/wiki/IATI-Data-Extractor)
 - [Milestones](https://github.com/BeehiveNGO/Beehive/milestones), [Issues](https://github.com/BeehiveNGO/Beehive/issues), [Project Kanban Board](https://github.com/BeehiveNGO/Beehive/projects/8)
 - Project Coordinator: [Brent Phillips](http://github.com/brentophillips)
