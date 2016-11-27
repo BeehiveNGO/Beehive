@@ -18,6 +18,7 @@ The following **project folders** are stored in this GitHub repository:
 - [Beta.beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beta.beehive.ngo): Beta version website folder
 - [App_engine](https://github.com/BeehiveNGO/Beehive/tree/master/app_engine): Google Cloud App Engine folder
 - [AWS](https://github.com/BeehiveNGO/Beehive/tree/master/aws): AWS Elastic Beanstalk folder
+- [Electron](https://github.com/BeehiveNGO/Beehive/tree/master/electron): Electron desktop app folder 
 - [HXS.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/hxs.ngo): Humanitarian Exchange Server landing page website folder
 - [HXQL](https://github.com/BeehiveNGO/Beehive/tree/master/hxql): Humanitarian Exchange Query Language ruleset folder
 - [IATI_Data_Extractor](https://github.com/BeehiveNGO/Beehive/tree/master/extractor): Automated IATI data extraction tool program folder
