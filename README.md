@@ -28,7 +28,7 @@ The following **project folders** are stored in this GitHub repository:
 
 The Beehive initiative is supported by a growing network of innovative **startups** and leading **technology companies**:
 
-MetaDesign, Salesforce, Twilio, Atlassian, Slack, Zendesk, Box, Database Labs, Wagon, Postico, API.ai, Sketch, Tableau, Datameer, Neo4j, PubNub, ESRI, Skillgravity, Mightbell, Aha, Discourse, Launcht, Veridu, Breezy, VolunteerMatch, OnGood, Humanitarian ID, Empowerment Works
+[MetaDesign](http://sanfrancisco.metadesign.com/), [Salesforce](https://www.salesforce.com/), [Twilio](https://www.twilio.com/), [Atlassian](https://www.atlassian.com/), [Slack](https://slack.com/), [Zendesk](https://www.zendesk.com/), [Box](http://www.box.com/), [Database [Labs](https://www.databaselabs.io/), [Wagon](https://www.wagonhq.com/), [Postico](https://eggerapps.at/postico/), [API.ai](https://api.ai/), [Sketch](https://www.sketchapp.com/), [Tableau](http://www.tableau.com/), [Datameer](https://www.datameer.com/), [Neo4j](https://neo4j.com/), [PubNub](https://www.pubnub.com/), [ESRI](http://www.esri.com/), [Skillgravity](http://skillgravity.com/), [Mightbell](https://mightybell.com/), [Aha](http://www.aha.io/), [Discourse](http://www.discourse.org/), [Launcht](http://www.launcht.com/), [Veridu](https://www.veridu.com/), [ZEIT](https://zeit.co/), [Breezy](https://breezy.hr/), [VolunteerMatch](http://www.volunteermatch.org/), [OnGood](https://www.ongood.ngo/info/), [Humanitarian ID](https://humanitarian.id/#/), [Empowerment Works](http://empowermentworks.org/main.html)
 
 ##Advisers and Mentors
 
