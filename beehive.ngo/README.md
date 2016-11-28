@@ -1,10 +1,15 @@
 # Beehive.ngo
 
-Website files for [Beehive.ngo]()
+Website files for **Beehive.ngo**
 
-###Auxiliary Resources
+## Notes
 
-- Design Overview: [beehive_design-overview.md](https://github.com/BeehiveNGO/Auxiliary/blob/master/design_specifications/beehive_design_overview.md)
-- Beehive.ngo [Wiki Page](https://github.com/BeehiveNGO/Beehive/wiki/Beehive.ngo)
+- The URL Beehive.ngo is currently being redirected to About.beehive.ngo
+- While Beta.beehive.ngo is being built, we're using this folder to experiment with building a React version
+
+##Auxiliary Resources
+
+- [Design Overview](https://github.com/BeehiveNGO/Auxiliary/blob/master/design_specifications/beehive_design_overview.md)
+- [Wiki Page](https://github.com/BeehiveNGO/Beehive/wiki/Beehive.ngo)
 - [Milestones](https://github.com/BeehiveNGO/Beehive/milestones), [Issues](https://github.com/BeehiveNGO/Beehive/issues), [Project Kanban Board](https://github.com/BeehiveNGO/Beehive/projects/1)
 - Project Coordinator: [Brent Phillips](https://github.com/Brentophillips)

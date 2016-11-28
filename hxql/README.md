@@ -1,3 +1,14 @@
 #HXQL Folder
 
-Beehive team members are developing an experimental Humanitarian Exchange Query Language. This folder contains HXQL's ruleset. For more information see the [HXQL]() wiki page.
+HXQL (Humanitarian Exchange Query Language) ruleset versions **A** and **B**
+
+## Notes
+
+- Beehive is experimenting with using a graph database for its Humanitarian Exchange Server (HXS).
+- HXQL is essentially a database formatting ruleset that Beehive is developing to make it easer to write HXS database scripts.
+
+##Auxiliary Resources
+
+- [Wiki Page](https://github.com/BeehiveNGO/Beehive/wiki/HXQL)
+- [Milestones](https://github.com/BeehiveNGO/Beehive/milestones), [Issues](https://github.com/BeehiveNGO/Beehive/issues), [Project Kanban Board](https://github.com/BeehiveNGO/Beehive/projects/6)
+- Project Coordinator: [Brent Phillips](https://github.com/Brentophillips)
