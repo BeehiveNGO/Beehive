@@ -22,7 +22,7 @@ The following **project folders** are stored in this GitHub repository:
 - [HXS.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/hxs.ngo): Humanitarian Exchange Server (HXS) files
 - [HXQL](https://github.com/BeehiveNGO/Beehive/tree/master/hxql): Humanitarian Exchange Query Language ruleset
 - [IATI_Data_Extractor](https://github.com/BeehiveNGO/Beehive/tree/master/extractor): IATI data extraction tool files
-- [ReliefBot.io](https://github.com/BeehiveNGO/Beehive/tree/master/reliefbot.io): Experimental ReliefBot files
+- [ReliefBot.io](https://github.com/BeehiveNGO/Beehive/tree/master/reliefbot.io): ReliefBot files
 
 ##Supporters
 
