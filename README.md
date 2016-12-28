@@ -3,7 +3,7 @@
 
 **Beehive** is a **nonprofit**, **open source initiative** launched by former United Nations staff that's bringing humanitarian organizations, tech volunteers and supporters together to **solve** and **model** how to vastly improve **humanitarian financing technology** at the **crowdfunding level**.
 
-Beehive team members are building the world’s first open source, open-data-driven **humanitarian crowdfunding platform** and the **backend architecture** and **software frameworks** developers need to setup, power and scale next generation, [IATI](http://iatistandard.org) compliant humanitarian crowdfunding applications.
+Beehive team members are currently building the world’s first open source, open-data-driven **humanitarian crowdfunding platform** and the **backend architecture** and **software frameworks** that developers need to setup, power and scale next generation, [IATI](http://iatistandard.org) compliant humanitarian crowdfunding applications.
 
 [Learn More](https://github.com/BeehiveNGO/Beehive/wiki/About-Beehive), Pitch Deck
 
@@ -21,7 +21,7 @@ The following **project folders** are stored in this GitHub repository:
 - [Electron](https://github.com/BeehiveNGO/Beehive/tree/master/electron): Electron desktop app files
 - [HXS.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/hxs.ngo): Humanitarian Exchange Server (HXS) files
 - [HXQL](https://github.com/BeehiveNGO/Beehive/tree/master/hxql): Humanitarian Exchange Query Language ruleset
-- [IATI_Data_Extractor](https://github.com/BeehiveNGO/Beehive/tree/master/extractor): IATI data extraction tool files
+- [IATI_Data_Extractor](https://github.com/BeehiveNGO/Beehive/tree/master/extractor): IATI Data Extraction Tool files
 - [ReliefBot.io](https://github.com/BeehiveNGO/Beehive/tree/master/reliefbot.io): ReliefBot files
 
 ##Supporters
