@@ -4,7 +4,7 @@ Website files for **Beehive.ngo**
 
 ## Notes
 
-- This folder contains files for beehive.ngo, a version of beta.beehive.ngo built using React
+- This folder is for beehive.ngo's build files (a React version of beta.beehive.ngo)
 - The **URL** beehive.ngo is currently being used as a landing page for about.beehive.ngo (see [subfolder]())
 
 ##Auxiliary Resources
