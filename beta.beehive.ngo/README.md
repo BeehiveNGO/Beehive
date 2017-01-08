@@ -4,7 +4,8 @@ Website files for [Beta.beehive.ngo](http://beta.beehive.ngo)
 
 ## Notes
 
-- Beta.beehive.ngo is currently being used to prototype Beehive.ngo, develop and test toolbox modules and data handling scripts.
+- Beta.beehive.ngo is currently being used to prototype Beehive.ngo, develop and test toolbox modules and data handling scripts
+- Stack: Python, Flask, JS, HTML
 
 ##Auxiliary Resources
 
