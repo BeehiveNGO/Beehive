@@ -4,7 +4,7 @@ Website files for **Beehive.ngo**
 
 ## Notes
 
-- The URL **beehive.ngo** is currently being used as a landing page for about.beehive.ngo (see [website files]())
+- The **URL** beehive.ngo is currently being used as a landing page for about.beehive.ngo (see [website files]())
 - While Beta.beehive.ngo is being built, we're using this folder to experiment with building a React version
 
 ##Auxiliary Resources
