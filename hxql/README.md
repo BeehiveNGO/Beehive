@@ -5,7 +5,7 @@
 ## Notes
 
 - Beehive is experimenting with using a [Neo4j](https://neo4j.com) graph database to power its Humanitarian Exchange Server (HXS)
-- **HXQL** is a database formatting ruleset that Beehive is developing to make it easer to write HXS database scripts.
+- **HXQL** is a database formatting ruleset that Beehive is developing to make it easer to write HXS database scripts using [Cypher](https://neo4j.com/developer/cypher-query-language/)
 
 ##Auxiliary Resources
 
