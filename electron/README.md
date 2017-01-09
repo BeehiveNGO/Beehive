@@ -4,7 +4,7 @@ Website files for Beehive's Desktop App developed using [Electron](http://electr
 
 ## Notes
 
-- Beehive is experimenting with using [Electron](http://electron.atom.io) to build a desktop version of its open-data-driven humanitarian crowdfunding platform, modeled on GitHub's open source code editor [Atom](https://atom.io)
+- Beehive is experimenting with using Electron to build a desktop version of its open-data-driven humanitarian crowdfunding platform, modeled on GitHub's open source code editor [Atom](https://atom.io)
 
 ##Auxiliary Resources
 
