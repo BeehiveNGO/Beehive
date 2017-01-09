@@ -4,7 +4,7 @@ Amazon Web Services Elastic Beanstalk files
 
 ##Notes
 
-- Beehive is experimenting with using Elastic Beanstalk to host beta.beehive.ngo
+- Beehive is experimenting with using Elastic Beanstalk to host beta.beehive.ngo as a web app
 
 ##Auxiliary Resources
 
