@@ -1,0 +1,1 @@
+HXS Usage Conditions
