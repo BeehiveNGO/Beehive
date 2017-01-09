@@ -5,7 +5,7 @@ Website files for [HXS.ngo](http://hxs.ngo)
 ## Notes
 
 - Beehive is developing a data exchange server to connect humanitarian crowdfunding applications to aid activity information published in compliance with [IATI](), an open data sharing standard and framework.
-- The server is accdessible to third-party app developers willing to join in maintaining it and making it better (see [conditions]()).
+- The server is accdessible to third-party app developers willing to join in maintaining it (see [conditions]()).
 - The HXS.ngo website will serve as a landing page and API access point.
 
 ##Auxiliary Resources
