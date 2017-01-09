@@ -1,11 +1,11 @@
 #HXQL Folder
 
-HXQL (Humanitarian Exchange Query Language) ruleset versions **A** and **B**
+HXQL (Humanitarian Exchange Query Language) ruleset versions **[A]()** and **B**
 
 ## Notes
 
-- Beehive is experimenting with using a graph database for its Humanitarian Exchange Server (HXS).
-- HXQL is essentially a database formatting ruleset that Beehive is developing to make it easer to write HXS database scripts.
+- Beehive is experimenting with using a graph database to power its Humanitarian Exchange Server (HXS)
+- **HXQL** is a database formatting ruleset that Beehive is developing to make it easer to write HXS database scripts.
 
 ##Auxiliary Resources
 
