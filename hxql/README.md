@@ -4,7 +4,7 @@ HXQL (Humanitarian Exchange Query Language) ruleset versions **[A]()** and **B**
 
 ## Notes
 
-- Beehive is experimenting with using a graph database to power its Humanitarian Exchange Server (HXS)
+- Beehive is experimenting with using a [Neo4j](https://neo4j.com) graph database to power its Humanitarian Exchange Server (HXS)
 - **HXQL** is a database formatting ruleset that Beehive is developing to make it easer to write HXS database scripts.
 
 ##Auxiliary Resources
