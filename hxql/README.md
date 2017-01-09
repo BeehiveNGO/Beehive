@@ -1,6 +1,6 @@
 #HXQL Folder
 
-HXQL (Humanitarian Exchange Query Language) ruleset versions [A]() and [B]()
+HXQL (**Humanitarian Exchange Query Language**) ruleset versions [A]() and [B]()
 
 ## Notes
 
