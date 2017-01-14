@@ -4,8 +4,10 @@ Website files for **Beehive.ngo**
 
 ## Notes
 
-- The URL Beehive.ngo is currently being redirected to About.beehive.ngo
-- While Beta.beehive.ngo is being built, we're using this folder to experiment with building a React version
+- Two versions of Beehive’s open-data-driven humanitarian crowdfunding platform are being built, an initial beta version (beta.beehive.ngo) and an official release version (beehive.com)
+- This folder is for beehive.ngo's build files
+- Stack: Beehive.ngo is principally being built using React
+- The **URL** beehive.ngo is currently being used as a landing page for about.beehive.ngo (see [subfolder]())
 
 ##Auxiliary Resources
 
