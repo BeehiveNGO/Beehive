@@ -21,7 +21,7 @@ The following **project folders** are stored in this GitHub repository:
 - [Electron](https://github.com/BeehiveNGO/Beehive/tree/master/electron): Electron desktop app files
 - [HXS.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/hxs.ngo): Humanitarian Exchange Server (HXS) files
 - [HXQL](https://github.com/BeehiveNGO/Beehive/tree/master/hxql): Humanitarian Exchange Query Language ruleset
-- [IATI_Data_Extractor](https://github.com/BeehiveNGO/Beehive/tree/master/extractor): IATI Data Extraction Tool files
+- [IATI_Data_Extractor](https://github.com/BeehiveNGO/Beehive/tree/master/iati_data_extractor): IATI Data Extraction Tool files
 - [ReliefBot.io](https://github.com/BeehiveNGO/Beehive/tree/master/reliefbot.io): ReliefBot files
 
 ##Supporters
