@@ -21,14 +21,14 @@ The following **project folders** are stored in this GitHub repository:
 - [Electron](https://github.com/BeehiveNGO/Beehive/tree/master/electron): Electron desktop app files
 - [HXS.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/hxs.ngo): Humanitarian Exchange Server (HXS) files
 - [HXQL](https://github.com/BeehiveNGO/Beehive/tree/master/hxql): Humanitarian Exchange Query Language ruleset
-- [IATI_Data_Extractor](https://github.com/BeehiveNGO/Beehive/tree/master/iati_data_extractor): IATI Data Extraction Tool files
+- [IATI_Data_Extractor](https://github.com/BeehiveNGO/Beehive/tree/master/extractor): IATI Data Extraction Tool files
 - [ReliefBot.io](https://github.com/BeehiveNGO/Beehive/tree/master/reliefbot.io): ReliefBot files
 
 ##Supporters
 
 The Beehive initiative is supported by a growing network of innovative **startups** and leading **technology companies**:
 
-[MetaDesign](http://sanfrancisco.metadesign.com/), [Salesforce](https://www.salesforce.com/), [Twilio](https://www.twilio.com/), [Atlassian](https://www.atlassian.com/), [Slack](https://slack.com/), [Zendesk](https://www.zendesk.com/), [Box](http://www.box.com/), [Database Labs](https://www.databaselabs.io/), [Wagon](https://www.wagonhq.com/), [Postico](https://eggerapps.at/postico/), [API.ai](https://api.ai/), [Sketch](https://www.sketchapp.com/), [Tableau](http://www.tableau.com/), [Datameer](https://www.datameer.com/), [Neo4j](https://neo4j.com/), [PubNub](https://www.pubnub.com/), [ESRI](http://www.esri.com/), [Skillgravity](http://skillgravity.com/), [Mightbell](https://mightybell.com/), [Aha](http://www.aha.io/), [Discourse](http://www.discourse.org/), [Launcht](http://www.launcht.com/), [Veridu](https://www.veridu.com/), [ZEIT](https://zeit.co/), [Breezy](https://breezy.hr/), [VolunteerMatch](http://www.volunteermatch.org/), [OnGood](https://www.ongood.ngo/info/), [Humanitarian ID](https://humanitarian.id/#/), [Empowerment Works](http://empowermentworks.org/main.html)
+[MetaDesign](http://sanfrancisco.metadesign.com/), [Salesforce](https://www.salesforce.com/), [Twilio](https://www.twilio.com/), [Atlassian](https://www.atlassian.com/), [Slack](https://slack.com/), [Zendesk](https://www.zendesk.com/), [Box](http://www.box.com/), [Database Labs](https://www.databaselabs.io/), [Wagon](https://www.wagonhq.com/), [Postico](https://eggerapps.at/postico/), [API.ai](https://api.ai/), [Sketch](https://www.sketchapp.com/), [Tableau](http://www.tableau.com/), [Datameer](https://www.datameer.com/), [Neo4j](https://neo4j.com/), [PubNub](https://neo4j.com/), [ESRI](https://neo4j.com/), [Skillgravity](https://skillgravity.com/), [Mightbell](https://mightybell.com/), [Aha](http://www.aha.io/), [Discourse](http://www.discourse.org/), [Launcht](http://www.launcht.com/), [Veridu](https://www.veridu.com/), [ZEIT](https://zeit.co/), [Breezy](https://breezy.hr/), [VolunteerMatch](http://volunteermatch.org), [OnGood](https://www.ongood.ngo/info/), [Humanitarian ID](https://humanitarian.id/#/), [Empowerment Works](http://empowermentworks.org/main.html)
 
 ##Advisers and Mentors
 
