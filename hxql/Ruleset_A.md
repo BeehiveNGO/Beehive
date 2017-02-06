@@ -1,1 +1,0 @@
-Ruleset A (Cells)
