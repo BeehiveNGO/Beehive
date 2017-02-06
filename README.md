@@ -1,27 +1,16 @@
 #Beehive
 
-**Beehive** is a **nonprofit**, **open source initiative** launched by former United Nations staff that's bringing humanitarian organizations, tech volunteers and supporters together to **solve** and **model** how to vastly improve **humanitarian financing technology** at the **crowdfunding level**.
+Beehive is a nonprofit, open source initiative launched by former United Nations staff that's bringing humanitarian organizations, tech volunteers and supporters together to **solve** and **model** how to vastly improve **humanitarian financing technology** at the **crowdfunding level**.
 
-Beehive team members are currently building the world’s first open source, open-data-driven **humanitarian crowdfunding platform** and the **backend architecture** and **software frameworks** that developers need to setup, power and scale next generation, [IATI](http://iatistandard.org) compliant humanitarian crowdfunding applications.
+**Learn More**: [About Beehive](https://github.com/BeehiveNGO/Beehive/wiki/About-Beehive), Pitch Deck | **Support us**: [Open Collective](https://opencollective.com/beehive)
 
-[Learn More](https://github.com/BeehiveNGO/Beehive/wiki/About-Beehive), Pitch Deck
+##Focus
+
+Beehive team members are principally working on building the world’s first open source, open-data-driven **humanitarian crowdfunding platform** and the **backend architecture** and **software frameworks** that developers need to setup, power and scale next generation, [IATI](http://iatistandard.org) compliant humanitarian crowdfunding applications.
 
 ##Projects and Labs
 
-The initiative is organized around community **projects** and **labs**. [Labs](https://github.com/BeehiveNGO/Beehive/wiki/Labs) bring team members together sharing similar technology interests to carry out research and development activities while [projects](https://github.com/BeehiveNGO/Beehive/wiki/Project-List) build deployable tools and applications
-
-
-The following **project folders** are stored in this GitHub repository:
-
-- [Beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beehive.ngo): Beehive crowdfunding platform files
-- [Beta.beehive.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/beta.beehive.ngo): Beta version files
-- [App_engine](https://github.com/BeehiveNGO/Beehive/tree/master/app_engine): Google App Engine files
-- [AWS](https://github.com/BeehiveNGO/Beehive/tree/master/aws): AWS Elastic Beanstalk files
-- [Electron](https://github.com/BeehiveNGO/Beehive/tree/master/electron): Electron desktop app files
-- [HXS.ngo](https://github.com/BeehiveNGO/Beehive/tree/master/hxs.ngo): Humanitarian Exchange Server (HXS) files
-- [HXQL](https://github.com/BeehiveNGO/Beehive/tree/master/hxql): Humanitarian Exchange Query Language ruleset
-- [IATI_Data_Extractor](https://github.com/BeehiveNGO/Beehive/tree/master/extractor): IATI Data Extraction Tool files
-- [ReliefBot.io](https://github.com/BeehiveNGO/Beehive/tree/master/reliefbot.io): ReliefBot files
+The initiative is organized around community **projects** and **labs**. [Labs](https://github.com/BeehiveNGO/Beehive/wiki/Labs) bring team members together sharing similar technology interests to carry out research and development activities while [Projects](https://github.com/BeehiveNGO/Beehive/wiki/Project-List) build deployable tools and applications.
 
 ##Supporters
 
