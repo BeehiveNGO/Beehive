@@ -12,7 +12,7 @@ Beehive team members are principally working on building the world’s first ope
 
 ##Projects and Labs
 
-The initiative is organized around community **projects** and **labs**. [Labs](https://github.com/BeehiveNGO/Beehive/wiki/Labs) bring team members together sharing similar technology interests to carry out research and development activities while [Projects](https://github.com/BeehiveNGO/Beehive/wiki/Project-List) build deployable tools and applications.
+The initiative is organized around community [Projects](https://github.com/BeehiveNGO/Beehive/wiki/Project-List) and [Labs](https://github.com/BeehiveNGO/Beehive/wiki/Labs). Labs bring team members together sharing similar technology interests to carry out research and development activities while projects build deployable tools and applications.
 
 ##Supporters
 
