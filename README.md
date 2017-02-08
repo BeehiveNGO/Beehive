@@ -1,6 +1,6 @@
 ![Beehive logo](https://github.com/BeehiveNGO/Auxiliary/blob/master/images/Logo_Black_xsm.png)
 
-[![Beehive](https://img.shields.io/badge/Website-Beehive.ngo-blue.svg)](https://beehive.ngo) [![Slack](https://img.shields.io/badge/Get Involved-Join Beehive-green.svg)](https://github.com/BeehiveNGO/Beehive/wiki/Contribute) [![Open Colelctive](https://img.shields.io/badge/Support us-Visit OpenCollective-yellow.svg)](https://opencollective.com/beehive)
+[![Beehive](https://img.shields.io/badge/Website-Beehive.ngo-blue.svg)](https://beehive.ngo) [![Slack](https://img.shields.io/badge/Get Involved-Join Beehive-green.svg)](https://github.com/BeehiveNGO/Beehive/wiki/Contribute) [![Open Colelctive](https://img.shields.io/badge/Support us-Visit OpenCollective-yellow.svg)](https://opencollective.com/beehive)]
 
 Beehive is a nonprofit, open source initiative launched by former United Nations staff that's bringing humanitarian organizations, tech volunteers and supporters together to **solve** and **model** how to vastly improve **humanitarian financing technology** at the **crowdfunding level**.
 
