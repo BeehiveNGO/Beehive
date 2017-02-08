@@ -9,7 +9,7 @@ Learn More: [About Beehive](https://github.com/BeehiveNGO/Beehive/wiki/About-Bee
 
 ##Focus
 
-Beehive team members are principally working on building the world’s first open source, open-data-driven **humanitarian crowdfunding platform** and the **backend architecture** and **software frameworks** that developers need to setup, power and scale next generation, [IATI](http://iatistandard.org) compliant humanitarian crowdfunding applications.
+Beehive team members are principally working on building the world’s first open source, open-data-driven **humanitarian crowdfunding platform** and the **backend architecture** and **software frameworks** that developers need to setup, power and scale next generation, [IATI](https://github.com/BeehiveNGO/Beehive/wiki/IATI) compliant humanitarian crowdfunding applications.
 
 ##Projects and Labs
 
