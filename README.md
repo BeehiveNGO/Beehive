@@ -5,7 +5,7 @@
 
 Beehive is a nonprofit, open source initiative launched by former United Nations staff that's bringing humanitarian organizations, tech volunteers and supporters together to **solve** and **model** how to vastly improve **humanitarian financing technology** at the **crowdfunding level**.
 
-Learn More: [About Beehive](https://github.com/BeehiveNGO/Beehive/wiki/About-Beehive), [Pitch Deck](https://github.com/BeehiveNGO/Auxiliary/blob/master/slide_deck.md), [Website](http://beehive.ngo)
+Learn More: [About Beehive](https://github.com/BeehiveNGO/Beehive/wiki/About-Beehive), Pitch Deck, [Website](http://beehive.ngo)
 
 ##Focus
 
