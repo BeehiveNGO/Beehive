@@ -1,4 +1,4 @@
-![Beehive logo](https://github.com/Brentophillips/HXS-Work/blob/master/beehive_s900.png)
+![Beehive logo](http://beehive.ngo/img/beehive_s900.png)
 
 **Beehive** is an all-volunteer, open source initiative launched by former United Nations staff. The initiative is taking responsibility for bringing humanitarian organizations, tech volunteers and supporters together to vastly improve humanitarian financing technology at the crowdfunding level. 
 
