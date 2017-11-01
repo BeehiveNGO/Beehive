@@ -2,7 +2,7 @@
 
 **Beehive** is an all-volunteer, open source initiative launched by former United Nations staff. The initiative is taking responsibility for bringing humanitarian organizations, tech volunteers and supporters together to vastly improve humanitarian financing technology at the crowdfunding level. 
 
-Beehive is a nonprofit program of [Empowerment Works](http://www.empowermentworks.org/) (501c3: 31-1796801). Learn more: [Beehive Slide Deck](https://youtu.be/BWR20ibAzPQ)
+Beehive is a nonprofit program of [Empowerment Works](http://www.empowermentworks.org/) (501c3: 31-1796801). Learn more: [Beehive Slide Deck](https://www.slideshare.net/BrentOPhillips/more-about-beehive)
 
 ## Focus
 
